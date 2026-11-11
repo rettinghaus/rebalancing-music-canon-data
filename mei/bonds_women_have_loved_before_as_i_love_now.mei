@@ -67,40 +67,40 @@
                   <measure xml:id="m11jf8gk" n="2">
                      <staff xml:id="s1yfy2ge" n="1">
                         <layer xml:id="l1sk5k2m" n="1">
-                           <rest xml:id="r1hfrw6a" dur.ppq="6" dur="4" />
+                           <rest xml:id="r1hfrw6a" dur="4" />
                            <tuplet xml:id="t1xi8gql" num="3" numbase="2" bracket.visible="true">
-                              <note xml:id="n1wc4u44" dur.ppq="2" dur="8" oct="3" pname="b" stem.dir="up">
+                              <note xml:id="n1wc4u44" dur="8" oct="3" pname="b" stem.dir="up">
                                  <verse xml:id="v1rfrjhv" n="1">
                                     <syl xml:id="s1umy80r" con="d" wordpos="i">Wom</syl>
                                  </verse>
                               </note>
-                              <note xml:id="n171xwol" dur.ppq="2" dur="8" oct="4" pname="c" stem.dir="up">
+                              <note xml:id="n171xwol" dur="8" oct="4" pname="c" stem.dir="up">
                                  <verse xml:id="v1o4lnbs" n="1">
                                     <syl xml:id="sba89fe" con="s" wordpos="t">en</syl>
                                  </verse>
                               </note>
-                              <note xml:id="n1r7zzni" dur.ppq="2" dur="8" oct="4" pname="d" stem.dir="up">
+                              <note xml:id="n1r7zzni" dur="8" oct="4" pname="d" stem.dir="up">
                                  <verse xml:id="v32s8v9" n="1">
                                     <syl xml:id="s1d2ymv5" con="s" wordpos="s">have</syl>
                                  </verse>
                               </note>
                            </tuplet>
-                           <note xml:id="n1jwyfak" dur.ppq="3" dur="8" oct="4" pname="e" stem.dir="up">
+                           <note xml:id="n1jwyfak" dur="8" oct="4" pname="e" stem.dir="up">
                               <verse xml:id="vz6ran4" n="1">
                                  <syl xml:id="s1rv7n9q" con="s" wordpos="s">lov'd</syl>
                               </verse>
                            </note>
-                           <note xml:id="n1ju9wj5" dur.ppq="3" dur="8" oct="4" pname="f" stem.dir="up" accid.ges="s">
+                           <note xml:id="n1ju9wj5" dur="8" oct="4" pname="f" stem.dir="up" accid.ges="s">
                               <verse xml:id="v18cic63" n="1">
                                  <syl xml:id="sh0aypw" con="d" wordpos="i">be</syl>
                               </verse>
                            </note>
-                           <note xml:id="n14egzt2" dur.ppq="3" dur="8" oct="4" pname="g" stem.dir="up">
+                           <note xml:id="n14egzt2" dur="8" oct="4" pname="g" stem.dir="up">
                               <verse xml:id="vc6g4dv" n="1">
                                  <syl xml:id="s1uwcl6g" con="s" wordpos="t">fore</syl>
                               </verse>
                            </note>
-                           <note xml:id="nwghpj" dur.ppq="3" dur="8" oct="4" pname="a" stem.dir="up">
+                           <note xml:id="nwghpj" dur="8" oct="4" pname="a" stem.dir="up">
                               <verse xml:id="v145aibn" n="1">
                                  <syl xml:id="swzyu6j" con="s" wordpos="s">as</syl>
                               </verse>
@@ -111,24 +111,24 @@
                   <measure xml:id="m1c7cv1w" n="3">
                      <staff xml:id="s14ije5d" n="1">
                         <layer xml:id="l1jxrv3r" n="1">
-                           <note xml:id="n1o5aedo" dur.ppq="3" dur="8" oct="4" pname="b" stem.dir="down">
+                           <note xml:id="n1o5aedo" dur="8" oct="4" pname="b" stem.dir="down">
                               <verse xml:id="v15cehn8" n="1">
                                  <syl xml:id="s1akh0ra" con="s" wordpos="s">I</syl>
                               </verse>
                            </note>
-                           <note xml:id="nl4rtn0" dur.ppq="3" dur="8" oct="4" pname="g" stem.dir="up">
+                           <note xml:id="nl4rtn0" dur="8" oct="4" pname="g" stem.dir="up">
                               <verse xml:id="v1hig1kh" n="1">
                                  <syl xml:id="suqntse" con="s" wordpos="s">love</syl>
                               </verse>
                            </note>
-                           <note xml:id="nqbx9ki" dur.ppq="6" dur="4" oct="4" pname="d" stem.dir="up">
+                           <note xml:id="nqbx9ki" dur="4" oct="4" pname="d" stem.dir="up">
                               <verse xml:id="v15kyybq" n="1">
                                  <syl xml:id="s65ps09" con="s" wordpos="s">now;</syl>
                               </verse>
                            </note>
-                           <rest xml:id="rvtynxx" dur.ppq="6" dur="4" />
-                           <rest xml:id="r1m4lz7t" dur.ppq="3" dur="8" />
-                           <note xml:id="n1xdhf18" dur.ppq="3" dur="8" oct="4" pname="e" stem.dir="up">
+                           <rest xml:id="rvtynxx" dur="4" />
+                           <rest xml:id="r1m4lz7t" dur="8" />
+                           <note xml:id="n1xdhf18" dur="8" oct="4" pname="e" stem.dir="up">
                               <verse xml:id="vk133uc" n="1">
                                  <syl xml:id="s52e5zd" con="s" wordpos="s">At</syl>
                               </verse>
@@ -139,51 +139,51 @@
                   <measure xml:id="m1wm3eg7" n="4">
                      <staff xml:id="sojnaso" n="1">
                         <layer xml:id="l1emyz8m" n="1">
-                           <note xml:id="n11bgwo" dur.ppq="3" dur="8" oct="4" pname="f" stem.dir="up">
+                           <note xml:id="n11bgwo" dur="8" oct="4" pname="f" stem.dir="up">
                               <accid xml:id="a1adg3l7" accid="n" />
                               <verse xml:id="v8761v6" n="1">
                                  <syl xml:id="sv5h2wr" con="s" wordpos="s">least,</syl>
                               </verse>
                            </note>
-                           <note xml:id="n17zd63j" dur.ppq="3" dur="8" oct="4" pname="d" stem.dir="up">
+                           <note xml:id="n17zd63j" dur="8" oct="4" pname="d" stem.dir="up">
                               <verse xml:id="vtnx12a" n="1">
                                  <syl xml:id="sn03tra" con="s" wordpos="s">in</syl>
                               </verse>
                            </note>
-                           <note xml:id="n1szk828" dur.ppq="3" dur="8" oct="4" pname="f" stem.dir="up">
+                           <note xml:id="n1szk828" dur="8" oct="4" pname="f" stem.dir="up">
                               <verse xml:id="vx2k0mv" n="1">
                                  <syl xml:id="sranufs" con="d" wordpos="i">live</syl>
                               </verse>
                            </note>
-                           <note xml:id="nbyj10" dur.ppq="3" dur="8" oct="4" pname="b" stem.dir="down">
+                           <note xml:id="nbyj10" dur="8" oct="4" pname="b" stem.dir="down">
                               <accid xml:id="ao8lw5n" accid="f" />
                               <verse xml:id="v1u43mvz" n="1">
                                  <syl xml:id="s1d4core" con="s" wordpos="t">ly</syl>
                               </verse>
                            </note>
                            <tuplet xml:id="t1u9m57o" num="3" numbase="2" bracket.visible="true">
-                              <note xml:id="n15gndw1" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
+                              <note xml:id="n15gndw1" dur="8" oct="4" pname="g" stem.dir="up">
                                  <verse xml:id="v1wyv44x" n="1">
                                     <syl xml:id="s1tds0xt" con="d" wordpos="i">chron</syl>
                                  </verse>
                               </note>
-                              <note xml:id="nxyzxub" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
+                              <note xml:id="nxyzxub" dur="8" oct="4" pname="g" stem.dir="up">
                                  <verse xml:id="v13z2rie" n="1">
                                     <syl xml:id="s1abak4s" con="d" wordpos="m">i</syl>
                                  </verse>
                               </note>
-                              <note xml:id="nl9is5l" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
+                              <note xml:id="nl9is5l" dur="8" oct="4" pname="g" stem.dir="up">
                                  <verse xml:id="v10az545" n="1">
                                     <syl xml:id="s1cajuix" con="s" wordpos="t">cles</syl>
                                  </verse>
                               </note>
                            </tuplet>
-                           <note xml:id="n12pxf7y" dur.ppq="3" dur="8" oct="4" pname="g" stem.dir="up">
+                           <note xml:id="n12pxf7y" dur="8" oct="4" pname="g" stem.dir="up">
                               <verse xml:id="vwlqhs1" n="1">
                                  <syl xml:id="sygoow8" con="s" wordpos="s">of</syl>
                               </verse>
                            </note>
-                           <note xml:id="nbdl4io" dur.ppq="3" dur="8" oct="4" pname="b" stem.dir="down" accid.ges="f">
+                           <note xml:id="nbdl4io" dur="8" oct="4" pname="b" stem.dir="down" accid.ges="f">
                               <verse xml:id="vor6dj8" n="1">
                                  <syl xml:id="sx549xp" con="s" wordpos="s">the</syl>
                               </verse>
@@ -195,15 +195,15 @@
                   <measure xml:id="m1bb2h8q" n="5">
                      <staff xml:id="svd55p5" n="1">
                         <layer xml:id="l1kdwhff" n="1">
-                           <note xml:id="n1q8uggi" dur.ppq="6" dur="4" oct="4" pname="a" stem.dir="up">
+                           <note xml:id="n1q8uggi" dur="4" oct="4" pname="a" stem.dir="up">
                               <verse xml:id="v102w6x4" n="1">
                                  <syl xml:id="s18hu3lo" con="s" wordpos="s">past–</syl>
                               </verse>
                            </note>
-                           <rest xml:id="ruin94u" dur.ppq="6" dur="4" />
-                           <rest xml:id="raij3nq" dur.ppq="6" dur="4" />
-                           <rest xml:id="r1n7omis" dur.ppq="3" dur="8" />
-                           <note xml:id="n17naglc" dur.ppq="3" dur="8" oct="4" pname="b" stem.dir="down">
+                           <rest xml:id="ruin94u" dur="4" />
+                           <rest xml:id="raij3nq" dur="4" />
+                           <rest xml:id="r1n7omis" dur="8" />
+                           <note xml:id="n17naglc" dur="8" oct="4" pname="b" stem.dir="down">
                               <verse xml:id="v17smd1f" n="1">
                                  <syl xml:id="s4rwb2s" con="s" wordpos="s">Of</syl>
                               </verse>

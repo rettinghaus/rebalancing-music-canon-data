@@ -65,8 +65,8 @@
                   <measure xml:id="m3w4t6k" n="9">
                      <staff xml:id="sqav7wl" n="1">
                         <layer xml:id="lcwuog8" n="1">
-                           <rest xml:id="rbbwmsq" dur.ppq="4" dur="2" />
-                           <note xml:id="nemcjyn" dur.ppq="4" dur="2" oct="4" pname="b" stem.dir="down" />
+                           <rest xml:id="rbbwmsq" dur="2" />
+                           <note xml:id="nemcjyn" dur="2" oct="4" pname="b" stem.dir="down" />
                         </layer>
                      </staff>
                      <dynam xml:id="d4fnr96" place="below" staff="1" tstamp="3.000000" val="64" vgrp="41">mp</dynam>
@@ -75,9 +75,9 @@
                   <measure xml:id="mriclfe" n="10">
                      <staff xml:id="sdn02g9" n="1">
                         <layer xml:id="lv1ykiz" n="1">
-                           <note xml:id="nr4sq9j" dots="1" dur.ppq="6" dur="2" oct="5" pname="c" stem.dir="down" />
-                           <note xml:id="nkr1bws" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="down" />
-                           <rest xml:id="r2asl6z" dur.ppq="1" dur="8" />
+                           <note xml:id="nr4sq9j" dots="1" dur="2" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="nkr1bws" dur="8" oct="5" pname="c" stem.dir="down" />
+                           <rest xml:id="r2asl6z" dur="8" />
                         </layer>
                      </staff>
                      <tie xml:id="tsqs2fy" startid="#nr4sq9j" endid="#nkr1bws" />
@@ -85,9 +85,9 @@
                   <measure xml:id="msoxb1g" n="11">
                      <staff xml:id="s26d2n5" n="1">
                         <layer xml:id="llp3pet" n="1">
-                           <rest xml:id="rtawp93" dur.ppq="2" dur="4" />
-                           <note xml:id="ntxqd9q" dur.ppq="4" dur="2" oct="4" pname="b" stem.dir="down" />
-                           <note xml:id="no3tx3d" dur.ppq="2" dur="4" oct="5" pname="c" stem.dir="down" />
+                           <rest xml:id="rtawp93" dur="4" />
+                           <note xml:id="ntxqd9q" dur="2" oct="4" pname="b" stem.dir="down" />
+                           <note xml:id="no3tx3d" dur="4" oct="5" pname="c" stem.dir="down" />
                         </layer>
                      </staff>
                      <slur xml:id="scajowk" startid="#ntxqd9q" endid="#no3tx3d" curvedir="above" />
@@ -95,7 +95,7 @@
                   <measure xml:id="myv9nwr" n="12">
                      <staff xml:id="sja0ga8" n="1">
                         <layer xml:id="lfjycmr" n="1">
-                           <note xml:id="n5ctfu1" dur.ppq="8" dur="1" oct="5" pname="e" accid="f" />
+                           <note xml:id="n5ctfu1" dur="1" oct="5" pname="e" accid="f" />
                         </layer>
                      </staff>
                      <tie xml:id="tz0a15z" startid="#n5ctfu1" endid="#n4kb532" />
@@ -103,10 +103,10 @@
                   <measure xml:id="mlneytc" n="13">
                      <staff xml:id="sjlu4s6" n="1">
                         <layer xml:id="lyf0dp" n="1">
-                           <note xml:id="n4kb532" dur.ppq="4" dur="2" oct="5" pname="e" stem.dir="down" accid.ges="f" />
-                           <note xml:id="nyq0ky3" dur.ppq="1" dur="8" oct="5" pname="e" stem.dir="down" accid.ges="f" />
-                           <rest xml:id="rjjz227" dur.ppq="1" dur="8" />
-                           <rest xml:id="rkf45ju" dur.ppq="2" dur="4" />
+                           <note xml:id="n4kb532" dur="2" oct="5" pname="e" stem.dir="down" accid.ges="f" />
+                           <note xml:id="nyq0ky3" dur="8" oct="5" pname="e" stem.dir="down" accid.ges="f" />
+                           <rest xml:id="rjjz227" dur="8" />
+                           <rest xml:id="rkf45ju" dur="4" />
                         </layer>
                      </staff>
                   </measure>

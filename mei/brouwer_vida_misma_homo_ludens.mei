@@ -53,16 +53,16 @@
                   <measure xml:id="measure-0000001200901935" n="1">
                      <staff xml:id="staff-0000000735820711" n="1">
                         <layer xml:id="layer-0000000727622082" n="1">
-                           <note xml:id="note-0000001227980260" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                           <note xml:id="note-0000001227980260" dur="4" oct="4" pname="f" stem.dir="up">
                               <artic xml:id="artic-0000000019148629" artic="stacc" />
                            </note>
-                           <note xml:id="note-0000001543238636" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                           <note xml:id="note-0000001543238636" dur="4" oct="4" pname="f" stem.dir="up">
                               <artic xml:id="artic-0000001598019734" artic="stacc" />
                            </note>
-                           <note xml:id="note-0000002038921238" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                           <note xml:id="note-0000002038921238" dur="4" oct="4" pname="f" stem.dir="up">
                               <artic xml:id="artic-0000001069596888" artic="stacc" />
                            </note>
-                           <note xml:id="note-0000000223996112" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                           <note xml:id="note-0000000223996112" dur="4" oct="4" pname="f" stem.dir="up">
                               <artic xml:id="artic-0000001132701937" artic="stacc" />
                            </note>
                         </layer>
@@ -77,16 +77,16 @@
                   <measure xml:id="measure-0000000841413802" n="2">
                      <staff xml:id="staff-0000001789016772" n="1">
                         <layer xml:id="layer-0000000557253410" n="1">
-                           <note xml:id="note-0000001780700363" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                           <note xml:id="note-0000001780700363" dur="4" oct="4" pname="f" stem.dir="up">
                               <artic xml:id="artic-0000000473518983" artic="stacc" />
                            </note>
-                           <note xml:id="note-0000001516301222" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                           <note xml:id="note-0000001516301222" dur="4" oct="4" pname="f" stem.dir="up">
                               <artic xml:id="artic-0000000920913527" artic="stacc" />
                            </note>
-                           <note xml:id="note-0000000268858337" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                           <note xml:id="note-0000000268858337" dur="4" oct="4" pname="f" stem.dir="up">
                               <artic xml:id="artic-0000000530264114" artic="stacc" />
                            </note>
-                           <note xml:id="note-0000000216110201" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                           <note xml:id="note-0000000216110201" dur="4" oct="4" pname="f" stem.dir="up">
                               <artic xml:id="artic-0000000942821338" artic="stacc" />
                            </note>
                         </layer>
@@ -95,16 +95,16 @@
                   <measure xml:id="measure-0000002093388963" n="3">
                      <staff xml:id="staff-0000001130540495" n="1">
                         <layer xml:id="layer-0000002014556172" n="1">
-                           <note xml:id="note-0000001627785340" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                           <note xml:id="note-0000001627785340" dur="4" oct="4" pname="f" stem.dir="up">
                               <artic xml:id="artic-0000000240754902" artic="stacc" />
                            </note>
-                           <note xml:id="note-0000002138482983" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                           <note xml:id="note-0000002138482983" dur="4" oct="4" pname="f" stem.dir="up">
                               <artic xml:id="artic-0000000688365937" artic="stacc" />
                            </note>
-                           <note xml:id="note-0000001455521293" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                           <note xml:id="note-0000001455521293" dur="4" oct="4" pname="f" stem.dir="up">
                               <artic xml:id="artic-0000000108241160" artic="stacc" />
                            </note>
-                           <note xml:id="note-0000000973630378" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                           <note xml:id="note-0000000973630378" dur="4" oct="4" pname="f" stem.dir="up">
                               <artic xml:id="artic-0000001969048543" artic="stacc" />
                            </note>
                         </layer>
@@ -116,28 +116,28 @@
                   <measure xml:id="measure-0000000309656644" n="4">
                      <staff xml:id="staff-0000001175628993" n="1">
                         <layer xml:id="layer-0000001318418697" n="1">
-                           <note xml:id="note-0000000904366639" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
+                           <note xml:id="note-0000000904366639" dur="8" oct="4" pname="f" stem.dir="up">
                               <artic xml:id="artic-0000000427636485" artic="stacc" />
                            </note>
-                           <note xml:id="note-0000001560200729" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                           <note xml:id="note-0000001560200729" dur="4" oct="4" pname="f" stem.dir="up">
                               <artic xml:id="artic-0000001052142942" artic="stacc" />
                            </note>
-                           <note xml:id="note-0000001249339395" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
+                           <note xml:id="note-0000001249339395" dur="8" oct="4" pname="f" stem.dir="up">
                               <artic xml:id="artic-0000001544294122" artic="stacc" />
                            </note>
-                           <note xml:id="note-0000000644308604" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                           <note xml:id="note-0000000644308604" dur="4" oct="4" pname="f" stem.dir="up">
                               <artic xml:id="artic-0000001118655359" artic="stacc" />
                            </note>
-                           <note xml:id="note-0000000216303584" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
+                           <note xml:id="note-0000000216303584" dur="8" oct="4" pname="f" stem.dir="up">
                               <artic xml:id="artic-0000000054829688" artic="stacc" />
                            </note>
-                           <note xml:id="note-0000001682084327" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                           <note xml:id="note-0000001682084327" dur="4" oct="4" pname="f" stem.dir="up">
                               <artic xml:id="artic-0000001510633480" artic="stacc" />
                            </note>
-                           <note xml:id="note-0000001660616298" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
+                           <note xml:id="note-0000001660616298" dur="8" oct="4" pname="f" stem.dir="up">
                               <artic xml:id="artic-0000000314633358" artic="stacc" />
                            </note>
-                           <note xml:id="note-0000000741169178" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                           <note xml:id="note-0000000741169178" dur="4" oct="4" pname="f" stem.dir="up">
                               <artic xml:id="artic-0000001325319933" artic="stacc" />
                            </note>
                         </layer>

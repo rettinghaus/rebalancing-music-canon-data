@@ -59,17 +59,17 @@
                   <measure xml:id="m1dw2zzk" n="1">
                      <staff xml:id="s101qy5d" n="1">
                         <layer xml:id="l8dtf3z" n="1">
-                           <rest xml:id="r1the27g" dur.ppq="1" dur="8" />
-                           <note xml:id="n1vbuyuy" dur.ppq="2" dur="4" oct="5" pname="f" stem.dir="down">
+                           <rest xml:id="r1the27g" dur="8" />
+                           <note xml:id="n1vbuyuy" dur="4" oct="5" pname="f" stem.dir="down">
                               <verse xml:id="v1drs5rp" n="1">
                                  <syl xml:id="s2z6ea9" con="s" wordpos="s">Hang</syl>
                               </verse>
                               <accid xml:id="a1hnqoah" accid.ges="n" />
                            </note>
-                           <note xml:id="n1myjtn8" dots="1" dur.ppq="3" dur="4" oct="5" pname="f" stem.dir="down">
+                           <note xml:id="n1myjtn8" dots="1" dur="4" oct="5" pname="f" stem.dir="down">
                               <accid xml:id="a1vaeag" accid.ges="n" />
                            </note>
-                           <note xml:id="n1m77b65" dots="1" dur.ppq="3" dur="4" oct="4" pname="g" stem.dir="up" accid="s">
+                           <note xml:id="n1m77b65" dots="1" dur="4" oct="4" pname="g" stem.dir="up" accid="s">
                               <verse xml:id="v19lospv" n="1">
                                  <syl xml:id="snk7jg3" con="s" wordpos="s">on</syl>
                               </verse>
@@ -88,18 +88,18 @@
                   <measure xml:id="mlmrfpn" n="2">
                      <staff xml:id="sdxzur8" n="1">
                         <layer xml:id="l1ebbfa2" n="1">
-                           <note xml:id="n1elvcpr" dots="1" dur.ppq="3" dur="4" oct="5" pname="e" stem.dir="down">
+                           <note xml:id="n1elvcpr" dots="1" dur="4" oct="5" pname="e" stem.dir="down">
                               <verse xml:id="v1k8k6ic" n="1">
                                  <syl xml:id="s5xvdzx" con="d" wordpos="i">dar</syl>
                               </verse>
                               <accid xml:id="aozreb5" accid.ges="n" />
                            </note>
-                           <note xml:id="n1rufezq" dur.ppq="2" dur="4" oct="5" pname="f" stem.dir="down" accid="s">
+                           <note xml:id="n1rufezq" dur="4" oct="5" pname="f" stem.dir="down" accid="s">
                               <verse xml:id="v74pnoq" n="1">
                                  <syl xml:id="s18xrkb7" con="s" wordpos="t">ling</syl>
                               </verse>
                            </note>
-                           <note xml:id="nm6ovv1" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="down" accid="s">
+                           <note xml:id="nm6ovv1" dur="8" oct="5" pname="c" stem.dir="down" accid="s">
                               <verse xml:id="v14ppufo" n="1">
                                  <syl xml:id="s1rlyndn" con="s" wordpos="s">the</syl>
                               </verse>
@@ -110,19 +110,19 @@
                   <measure xml:id="m15sr0j9" n="3">
                      <staff xml:id="su0v7fd" n="1">
                         <layer xml:id="l1kn8vgc" n="1">
-                           <note xml:id="n1au3hkn" dots="1" dur.ppq="3" dur="4" oct="5" pname="d" stem.dir="down">
+                           <note xml:id="n1au3hkn" dots="1" dur="4" oct="5" pname="d" stem.dir="down">
                               <verse xml:id="vfdhmdp" n="1">
                                  <syl xml:id="s19ll5ni" con="d" wordpos="i">rob</syl>
                               </verse>
                               <accid xml:id="a1da6gwa" accid.ges="n" />
                            </note>
-                           <note xml:id="nuzdf4w" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up">
+                           <note xml:id="nuzdf4w" dur="4" oct="4" pname="g" stem.dir="up">
                               <verse xml:id="v1rbycvi" n="1">
                                  <syl xml:id="shfqrnh" con="s" wordpos="s">ins</syl>
                               </verse>
                               <accid xml:id="a16o42zn" accid.ges="n" />
                            </note>
-                           <note xml:id="n1ax1w6" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up">
+                           <note xml:id="n1ax1w6" dur="8" oct="4" pname="a" stem.dir="up">
                               <verse xml:id="vgxek6h" n="1">
                                  <syl xml:id="s1y4l181" con="s" wordpos="s">are</syl>
                               </verse>
@@ -134,19 +134,19 @@
                   <measure xml:id="m16sh6ea" n="4">
                      <staff xml:id="s1noyjlz" n="1">
                         <layer xml:id="l1w1tdf" n="1">
-                           <note xml:id="nzvzzr8" dots="1" dur.ppq="3" dur="4" oct="5" pname="g" stem.dir="down">
+                           <note xml:id="nzvzzr8" dots="1" dur="4" oct="5" pname="g" stem.dir="down">
                               <verse xml:id="vw2ej2r" n="1">
                                  <syl xml:id="s1rfwhwk" con="d" wordpos="i">sing</syl>
                               </verse>
                               <accid xml:id="a16789us" accid.ges="n" />
                            </note>
-                           <note xml:id="ndp4iws" dur.ppq="2" dur="4" oct="5" pname="f" stem.dir="down">
+                           <note xml:id="ndp4iws" dur="4" oct="5" pname="f" stem.dir="down">
                               <verse xml:id="v1p30the" n="1">
                                  <syl xml:id="s12l7hkw" con="s" wordpos="t">ing,</syl>
                               </verse>
                               <accid xml:id="asznsnh" accid.ges="n" />
                            </note>
-                           <note xml:id="nxsskip" dur.ppq="1" dur="8" oct="5" pname="f" stem.dir="down" accid="s">
+                           <note xml:id="nxsskip" dur="8" oct="5" pname="f" stem.dir="down" accid="s">
                               <verse xml:id="vxi6f0h" n="1">
                                  <syl xml:id="s1crfixk" con="s" wordpos="s">The</syl>
                               </verse>

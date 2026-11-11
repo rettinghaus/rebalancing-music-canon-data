@@ -55,7 +55,7 @@
                   <measure xml:id="mxhykfg" n="1">
                      <staff xml:id="s8u6vo9" n="1">
                         <layer xml:id="ljuezlj" n="1">
-                           <note xml:id="n72ys98" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
+                           <note xml:id="n72ys98" dur="8" oct="4" pname="f" stem.dir="up">
                               <verse xml:id="vaa13pm" n="1">
                                  <syl xml:id="s5u2l9l" con="s" wordpos="s">У</syl>
                               </verse>
@@ -69,18 +69,18 @@
                   <measure xml:id="m29hb1v" n="2">
                      <staff xml:id="srnm6vy" n="1">
                         <layer xml:id="lkbxlid" n="1">
-                           <note xml:id="no41766" dur.ppq="2" dur="4" oct="5" pname="c" stem.dir="down">
+                           <note xml:id="no41766" dur="4" oct="5" pname="c" stem.dir="down">
                               <verse xml:id="vtp6s03" n="1">
                                  <syl xml:id="sfv6www" con="d" wordpos="i">бе</syl>
                               </verse>
                            </note>
-                           <note xml:id="nim7mu" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="down">
+                           <note xml:id="nim7mu" dur="8" oct="5" pname="c" stem.dir="down">
                               <verse xml:id="vroaet3" n="1">
                                  <syl xml:id="s41qbz2" con="s" wordpos="t">лых</syl>
                               </verse>
                            </note>
-                           <note xml:id="n9t2j37" dur.ppq="2" dur="4" oct="5" pname="c" stem.dir="down" />
-                           <note xml:id="nrjinxt" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up">
+                           <note xml:id="n9t2j37" dur="4" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="nrjinxt" dur="8" oct="4" pname="a" stem.dir="up">
                               <verse xml:id="vgunkan" n="1">
                                  <syl xml:id="sfkvgcl" con="s" wordpos="s">на</syl>
                               </verse>
@@ -96,27 +96,27 @@
                   <measure xml:id="mc2z9l5" n="3">
                      <staff xml:id="ssjhh7d" n="1">
                         <layer xml:id="ls39nrx" n="1">
-                           <note xml:id="nsx3v07" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up">
+                           <note xml:id="nsx3v07" dur="8" oct="4" pname="a" stem.dir="up">
                               <verse xml:id="vb0uoyb" n="1">
                                  <syl xml:id="sw06f7c" con="d" wordpos="i">яр</syl>
                               </verse>
                            </note>
-                           <note xml:id="nxpvxr" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up">
+                           <note xml:id="nxpvxr" dur="8" oct="4" pname="a" stem.dir="up">
                               <verse xml:id="vjf0c30" n="1">
                                  <syl xml:id="sz7az79" con="d" wordpos="m">мар</syl>
                               </verse>
                            </note>
-                           <note xml:id="ny1l0o9" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up">
+                           <note xml:id="ny1l0o9" dur="8" oct="4" pname="a" stem.dir="up">
                               <verse xml:id="vc31i28" n="1">
                                  <syl xml:id="scgexc3" con="s" wordpos="t">ке</syl>
                               </verse>
                            </note>
-                           <note xml:id="n6pi5pm" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up">
+                           <note xml:id="n6pi5pm" dur="8" oct="4" pname="a" stem.dir="up">
                               <verse xml:id="v4sb8ly" n="1">
                                  <syl xml:id="sejdmce" con="d" wordpos="i">нын</syl>
                               </verse>
                            </note>
-                           <note xml:id="ntelpav" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up">
+                           <note xml:id="ntelpav" dur="8" oct="4" pname="a" stem.dir="up">
                               <verse xml:id="vafk1a6" n="1">
                                  <syl xml:id="s77kcwe" con="s" wordpos="t">че</syl>
                               </verse>
@@ -130,20 +130,20 @@
                   <measure xml:id="mriikey" n="4">
                      <staff xml:id="sach1bh" n="1">
                         <layer xml:id="la0rjpa" n="1">
-                           <note xml:id="nafete" dur.ppq="2" dur="4" oct="5" pname="c" stem.dir="down" accid="s">
+                           <note xml:id="nafete" dur="4" oct="5" pname="c" stem.dir="down" accid="s">
                               <verse xml:id="vkp419m" n="1">
                                  <syl xml:id="sddtdfk" con="d" wordpos="i">ве</syl>
                               </verse>
                               <artic xml:id="a8y5gun" artic="acc" />
                            </note>
-                           <note xml:id="nsw7qug" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up">
+                           <note xml:id="nsw7qug" dur="8" oct="4" pname="a" stem.dir="up">
                               <verse xml:id="vd2nizk" n="1">
                                  <syl xml:id="sb0pzxt" con="d" wordpos="m">се</syl>
                               </verse>
                               <artic xml:id="a1amjar" artic="acc" />
                            </note>
-                           <note xml:id="np9wcfm" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up" />
-                           <note xml:id="nqnnz1e" dur.ppq="2" dur="4" oct="5" pname="c" stem.dir="down" accid.ges="s">
+                           <note xml:id="np9wcfm" dur="8" oct="4" pname="a" stem.dir="up" />
+                           <note xml:id="nqnnz1e" dur="4" oct="5" pname="c" stem.dir="down" accid.ges="s">
                               <verse xml:id="vjjpyfn" n="1">
                                  <syl xml:id="ssmoo46" con="s" wordpos="t">лье,</syl>
                               </verse>
@@ -157,18 +157,18 @@
                   <measure xml:id="ms7pl7j" n="5">
                      <staff xml:id="s1w4zfq" n="1">
                         <layer xml:id="le6ugxd" n="1">
-                           <note xml:id="nd7vafs" dur.ppq="2" dur="4" oct="5" pname="c" stem.dir="down" accid="n">
+                           <note xml:id="nd7vafs" dur="4" oct="5" pname="c" stem.dir="down" accid="n">
                               <verse xml:id="vgs95go" n="1">
                                  <syl xml:id="saxmwt6" con="d" wordpos="i">лю</syl>
                               </verse>
                            </note>
-                           <note xml:id="n34fk6l" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="down">
+                           <note xml:id="n34fk6l" dur="8" oct="5" pname="c" stem.dir="down">
                               <verse xml:id="vdj9586" n="1">
                                  <syl xml:id="s6iwbe4" con="s" wordpos="t">ди</syl>
                               </verse>
                            </note>
-                           <note xml:id="nbz5m4w" dur.ppq="2" dur="4" oct="5" pname="c" stem.dir="down" />
-                           <note xml:id="nbxiilw" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up">
+                           <note xml:id="nbz5m4w" dur="4" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="nbxiilw" dur="8" oct="4" pname="a" stem.dir="up">
                               <verse xml:id="vbv0kxy" n="1">
                                  <syl xml:id="szf7dz2" con="d" wordpos="i">ка</syl>
                               </verse>
@@ -184,22 +184,22 @@
                   <measure xml:id="mui0l4w" n="6">
                      <staff xml:id="sjfzhk1" n="1">
                         <layer xml:id="lerxz8p" n="1">
-                           <note xml:id="no6ezwu" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up">
+                           <note xml:id="no6ezwu" dur="8" oct="4" pname="a" stem.dir="up">
                               <verse xml:id="vav80fm" n="1">
                                  <syl xml:id="swb20fj" con="d" wordpos="m">та</syl>
                               </verse>
                            </note>
-                           <note xml:id="ni0e5lh" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up">
+                           <note xml:id="ni0e5lh" dur="8" oct="4" pname="a" stem.dir="up">
                               <verse xml:id="vdldbt3" n="1">
                                  <syl xml:id="sqabwtk" con="d" wordpos="m">ют</syl>
                               </verse>
                            </note>
-                           <note xml:id="nud78o" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up">
+                           <note xml:id="nud78o" dur="8" oct="4" pname="a" stem.dir="up">
                               <verse xml:id="vq3zoru" n="1">
                                  <syl xml:id="sp5sdiv" con="s" wordpos="t">ся</syl>
                               </verse>
                            </note>
-                           <note xml:id="njlnyjn" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up">
+                           <note xml:id="njlnyjn" dur="8" oct="4" pname="a" stem.dir="up">
                               <verse xml:id="vnnjkss" n="1">
                                  <syl xml:id="s2054gr" con="s" wordpos="s">на</syl>
                               </verse>
@@ -210,13 +210,13 @@
                   <measure xml:id="mhux412" n="7">
                      <staff xml:id="svmg6r7" n="1">
                         <layer xml:id="liaol20" n="1">
-                           <note xml:id="nf9jlkq" dur.ppq="2" dur="4" oct="5" pname="c" stem.dir="down" accid="s">
+                           <note xml:id="nf9jlkq" dur="4" oct="5" pname="c" stem.dir="down" accid="s">
                               <verse xml:id="vfm1ns7" n="1">
                                  <syl xml:id="sopbo8q" con="d" wordpos="i">ка</syl>
                               </verse>
                               <artic xml:id="asz9fop" artic="acc" />
                            </note>
-                           <note xml:id="nz8xx00" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up">
+                           <note xml:id="nz8xx00" dur="4" oct="4" pname="a" stem.dir="up">
                               <verse xml:id="vn3n9yy" n="1">
                                  <syl xml:id="s59ysiy" con="d" wordpos="m">ру</syl>
                               </verse>
@@ -228,13 +228,13 @@
                   <measure xml:id="mculxu0" n="8">
                      <staff xml:id="sms2dd0" n="1">
                         <layer xml:id="lhm6m7v" n="1">
-                           <note xml:id="nv72o9n" dur.ppq="2" dur="4" oct="5" pname="c" stem.dir="down" accid="s">
+                           <note xml:id="nv72o9n" dur="4" oct="5" pname="c" stem.dir="down" accid="s">
                               <verse xml:id="v2hi8m1" n="1">
                                  <syl xml:id="s9sv05r" con="d" wordpos="m">се</syl>
                               </verse>
                               <artic xml:id="abgewqr" artic="acc" />
                            </note>
-                           <note xml:id="nn6haeu" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up">
+                           <note xml:id="nn6haeu" dur="4" oct="4" pname="a" stem.dir="up">
                               <verse xml:id="voztuu9" n="1">
                                  <syl xml:id="ssrgcms" con="s" wordpos="t">ли</syl>
                               </verse>

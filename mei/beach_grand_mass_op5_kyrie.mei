@@ -73,28 +73,28 @@
                   <measure xml:id="measure-0000000232406695" n="3">
                      <staff xml:id="staff-0000001909336715" n="1">
                         <layer xml:id="layer-0000000386157941" n="1">
-                           <note xml:id="note-0000001548142777" dur.ppq="2" dur="4" oct="4" pname="e" stem.dir="up" accid.ges="f">
+                           <note xml:id="note-0000001548142777" dur="4" oct="4" pname="e" stem.dir="up" accid.ges="f">
                               <verse xml:id="verse-0000001239825335" n="1">
                                  <syl xml:id="syl-0000001619013548" con="d" wordpos="i">Ky</syl>
                               </verse>
                            </note>
-                           <note xml:id="note-0000001019371282" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up">
+                           <note xml:id="note-0000001019371282" dur="4" oct="4" pname="g" stem.dir="up">
                               <verse xml:id="verse-0000000462902369" n="1">
                                  <syl xml:id="syl-0000001460565856" con="d" wordpos="m">ri</syl>
                               </verse>
                            </note>
-                           <note xml:id="note-0000001282913860" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up" accid.ges="f">
+                           <note xml:id="note-0000001282913860" dur="4" oct="4" pname="a" stem.dir="up" accid.ges="f">
                               <verse xml:id="verse-0000000954455855" n="1">
                                  <syl xml:id="syl-0000002023948353" con="s" wordpos="t">e</syl>
                               </verse>
                            </note>
                            <beam xml:id="beam-0000000164444084">
-                              <note xml:id="note-0000001413552312" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up">
+                              <note xml:id="note-0000001413552312" dur="8" oct="4" pname="g" stem.dir="up">
                                  <verse xml:id="verse-0000000567190576" n="1">
                                     <syl xml:id="syl-0000000458774416" con="s" wordpos="m">e</syl>
                                  </verse>
                               </note>
-                              <note xml:id="note-0000001927194868" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up" />
+                              <note xml:id="note-0000001927194868" dur="8" oct="4" pname="f" stem.dir="up" />
                            </beam>
                         </layer>
                      </staff>
@@ -104,29 +104,29 @@
                   <measure xml:id="measure-0000001026258132" n="4">
                      <staff xml:id="staff-0000000985501422" n="1">
                         <layer xml:id="layer-0000002019002871" n="1">
-                           <note xml:id="note-0000001568874682" dur.ppq="4" dur="2" oct="4" pname="b" stem.dir="down" accid.ges="f">
+                           <note xml:id="note-0000001568874682" dur="2" oct="4" pname="b" stem.dir="down" accid.ges="f">
                               <verse xml:id="verse-0000001957105033" n="1">
                                  <syl xml:id="syl-0000001751340887" con="d" wordpos="i">lei</syl>
                               </verse>
                            </note>
-                           <note xml:id="note-0000000165875289" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up">
+                           <note xml:id="note-0000000165875289" dur="4" oct="4" pname="g" stem.dir="up">
                               <verse xml:id="verse-0000001048064768" n="1">
                                  <syl xml:id="syl-0000002106041415" con="s" wordpos="t">son,</syl>
                               </verse>
                            </note>
-                           <rest xml:id="rest-0000001801570848" dur.ppq="2" dur="4" />
+                           <rest xml:id="rest-0000001801570848" dur="4" />
                         </layer>
                      </staff>
                   </measure>
                   <measure xml:id="measure-0000000721972519" n="5">
                      <staff xml:id="staff-0000000648443881" n="1">
                         <layer xml:id="layer-0000000326764008" n="1">
-                           <note xml:id="note-0000000873397970" dots="1" dur.ppq="6" dur="2" oct="5" pname="e" stem.dir="down" accid.ges="f">
+                           <note xml:id="note-0000000873397970" dots="1" dur="2" oct="5" pname="e" stem.dir="down" accid.ges="f">
                               <verse xml:id="verse-0000001452197873" n="1">
                                  <syl xml:id="syl-0000002090901017" con="d" wordpos="i">Ky</syl>
                               </verse>
                            </note>
-                           <note xml:id="note-0000001890064936" dur.ppq="2" dur="4" oct="4" pname="b" stem.dir="down" accid.ges="f">
+                           <note xml:id="note-0000001890064936" dur="4" oct="4" pname="b" stem.dir="down" accid.ges="f">
                               <verse xml:id="verse-0000001022646212" n="1">
                                  <syl xml:id="syl-0000001144518597" con="d" wordpos="m">ri</syl>
                               </verse>
@@ -139,13 +139,13 @@
                   <measure xml:id="measure-0000001265813133" right="single" n="6">
                      <staff xml:id="staff-0000001653035940" n="1">
                         <layer xml:id="layer-0000001354129631" n="1">
-                           <note xml:id="note-0000001500925129" dur.ppq="2" dur="4" oct="4" pname="b" stem.dir="down" accid.ges="f">
+                           <note xml:id="note-0000001500925129" dur="4" oct="4" pname="b" stem.dir="down" accid.ges="f">
                               <verse xml:id="verse-0000000928859692" n="1">
                                  <syl xml:id="syl-0000000538798457" con="s" wordpos="t">e,</syl>
                               </verse>
                            </note>
-                           <rest xml:id="rest-0000002023794977" dur.ppq="2" dur="4" />
-                           <rest xml:id="rest-0000000731892826" dur.ppq="4" dur="2" />
+                           <rest xml:id="rest-0000002023794977" dur="4" />
+                           <rest xml:id="rest-0000000731892826" dur="2" />
                         </layer>
                      </staff>
                   </measure>

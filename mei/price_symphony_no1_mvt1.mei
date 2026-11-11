@@ -61,7 +61,7 @@
                      <staff xml:id="staff-0000001835168026" n="1">
                         <layer xml:id="layer-0000000264903823" n="1">
                            <bTrem xml:id="btrem-0000001081298551" form="meas">
-                              <note xml:id="note-0000000519445258" dur.ppq="8" dur="1" oct="4" pname="b" stem.mod="2slash" />
+                              <note xml:id="note-0000000519445258" dur="1" oct="4" pname="b" stem.mod="2slash" />
                            </bTrem>
                         </layer>
                      </staff>
@@ -76,7 +76,7 @@
                      <staff xml:id="staff-0000001088111275" n="1">
                         <layer xml:id="layer-0000001056169786" n="1">
                            <bTrem xml:id="btrem-0000000607701189" form="meas">
-                              <note xml:id="note-0000000983555082" dur.ppq="8" dur="1" oct="4" pname="b" stem.mod="2slash" />
+                              <note xml:id="note-0000000983555082" dur="1" oct="4" pname="b" stem.mod="2slash" />
                            </bTrem>
                         </layer>
                      </staff>
@@ -85,7 +85,7 @@
                      <staff xml:id="staff-0000000847305121" n="1">
                         <layer xml:id="layer-0000000015753814" n="1">
                            <bTrem xml:id="btrem-0000001180131062" form="meas">
-                              <note xml:id="note-0000001608771155" dur.ppq="8" dur="1" oct="4" pname="b" stem.mod="2slash" />
+                              <note xml:id="note-0000001608771155" dur="1" oct="4" pname="b" stem.mod="2slash" />
                            </bTrem>
                         </layer>
                      </staff>
@@ -95,23 +95,23 @@
                      <staff xml:id="staff-0000000031826103" n="1">
                         <layer xml:id="layer-0000001333985356" n="1">
                            <bTrem xml:id="btrem-0000000935604639" form="meas">
-                              <note xml:id="note-0000001611645036" dur.ppq="2" dur="4" oct="4" pname="b" stem.dir="down" stem.mod="2slash" />
+                              <note xml:id="note-0000001611645036" dur="4" oct="4" pname="b" stem.dir="down" stem.mod="2slash" />
                            </bTrem>
                            <bTrem xml:id="btrem-0000001274560815" form="meas">
-                              <note xml:id="note-0000001000353782" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up" stem.mod="2slash" />
+                              <note xml:id="note-0000001000353782" dur="4" oct="4" pname="a" stem.dir="up" stem.mod="2slash" />
                            </bTrem>
                            <beam xml:id="beam-0000000559480893">
                               <bTrem xml:id="btrem-0000000758120082" form="meas">
-                                 <note xml:id="note-0000000829050758" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="down" stem.mod="1slash" />
+                                 <note xml:id="note-0000000829050758" dur="8" oct="4" pname="g" stem.dir="down" stem.mod="1slash" />
                               </bTrem>
                               <bTrem xml:id="btrem-0000000229719073" form="meas">
-                                 <note xml:id="note-0000000679212072" dur.ppq="1" dur="8" oct="4" pname="b" stem.dir="down" stem.mod="1slash" />
+                                 <note xml:id="note-0000000679212072" dur="8" oct="4" pname="b" stem.dir="down" stem.mod="1slash" />
                               </bTrem>
                               <bTrem xml:id="btrem-0000001949995157" form="meas">
-                                 <note xml:id="note-0000000390479518" dur.ppq="1" dur="8" oct="5" pname="e" stem.dir="down" stem.mod="1slash" />
+                                 <note xml:id="note-0000000390479518" dur="8" oct="5" pname="e" stem.dir="down" stem.mod="1slash" />
                               </bTrem>
                               <bTrem xml:id="btrem-0000000718421294" form="meas">
-                                 <note xml:id="note-0000000443833347" dur.ppq="1" dur="8" oct="4" pname="b" stem.dir="down" stem.mod="1slash" />
+                                 <note xml:id="note-0000000443833347" dur="8" oct="4" pname="b" stem.dir="down" stem.mod="1slash" />
                               </bTrem>
                            </beam>
                         </layer>
@@ -125,20 +125,20 @@
                      <staff xml:id="staff-0000002074653790" n="1">
                         <layer xml:id="layer-0000001921417126" n="1">
                            <bTrem xml:id="btrem-0000000566918440" form="meas">
-                              <note xml:id="note-0000000817855100" dur.ppq="4" dur="2" oct="5" pname="c" stem.dir="down" stem.mod="2slash" />
+                              <note xml:id="note-0000000817855100" dur="2" oct="5" pname="c" stem.dir="down" stem.mod="2slash" />
                            </bTrem>
                            <beam xml:id="beam-0000001835536333">
                               <bTrem xml:id="btrem-0000000421316471" form="meas">
-                                 <note xml:id="note-0000000148146684" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="down" stem.mod="1slash" />
+                                 <note xml:id="note-0000000148146684" dur="8" oct="5" pname="c" stem.dir="down" stem.mod="1slash" />
                               </bTrem>
                               <bTrem xml:id="btrem-0000001757179710" form="meas">
-                                 <note xml:id="note-0000000085199090" dur.ppq="1" dur="8" oct="5" pname="d" stem.dir="down" stem.mod="1slash" />
+                                 <note xml:id="note-0000000085199090" dur="8" oct="5" pname="d" stem.dir="down" stem.mod="1slash" />
                               </bTrem>
                               <bTrem xml:id="btrem-0000000961309965" form="meas">
-                                 <note xml:id="note-0000002049053857" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="down" stem.mod="1slash" />
+                                 <note xml:id="note-0000002049053857" dur="8" oct="5" pname="c" stem.dir="down" stem.mod="1slash" />
                               </bTrem>
                               <bTrem xml:id="btrem-0000000174547767" form="meas">
-                                 <note xml:id="note-0000001614614970" dur.ppq="1" dur="8" oct="5" pname="d" stem.dir="down" stem.mod="1slash" />
+                                 <note xml:id="note-0000001614614970" dur="8" oct="5" pname="d" stem.dir="down" stem.mod="1slash" />
                               </bTrem>
                            </beam>
                         </layer>

@@ -82,8 +82,8 @@
                      </staff>
                      <staff xml:id="sza59nj" n="2">
                         <layer xml:id="lrlowy5" n="5">
-                           <note xml:id="ncat87h" dots="1" dur.ppq="3" dur="2" oct.ges="0" oct="1" pname="a" head.mod="paren" stem.dir="up" />
-                           <rest xml:id="r1utfe5z" dur.ppq="1" dur="4" />
+                           <note xml:id="ncat87h" dots="1" dur="2" oct.ges="0" oct="1" pname="a" head.mod="paren" stem.dir="up" />
+                           <rest xml:id="r1utfe5z" dur="4" />
                         </layer>
                      </staff>
                      <octave xml:id="ouf4qq5" staff="2" startid="#ncat87h" endid="#r1utfe5z" n="1" dis="8" dis.place="below" />

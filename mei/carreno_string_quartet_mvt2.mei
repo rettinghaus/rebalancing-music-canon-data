@@ -60,15 +60,15 @@
                   <measure xml:id="measure-0000001741757252" n="1">
                      <staff xml:id="staff-0000001318418697" n="1">
                         <layer xml:id="layer-0000000054829688" n="1">
-                           <note xml:id="note-0000001682084327" dur.ppq="4" dur="2" oct="4" pname="d" stem.dir="up" />
+                           <note xml:id="note-0000001682084327" dur="2" oct="4" pname="d" stem.dir="up" />
                            <beam xml:id="beam-0000001660616298">
                               <note xml:id="note-0000000314633358" dur="16" oct="4" pname="e" grace="acc" stem.dir="up" />
                               <note xml:id="note-0000001325319933" dur="16" oct="4" pname="d" grace="acc" stem.dir="up" />
                            </beam>
-                           <note xml:id="note-0000000460749927" dur.ppq="2" dur="4" oct="4" pname="c" stem.dir="up" accid.ges="s">
+                           <note xml:id="note-0000000460749927" dur="4" oct="4" pname="c" stem.dir="up" accid.ges="s">
                               <artic xml:id="artic-0000001037012619" type="technical" artic="upbow" />
                            </note>
-                           <note xml:id="note-0000000847924224" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up" />
+                           <note xml:id="note-0000000847924224" dur="4" oct="4" pname="g" stem.dir="up" />
                         </layer>
                      </staff>
                      <dynam place="below" staff="1" tstamp="1.000000" vgrp="3">
@@ -89,9 +89,9 @@
                   <measure xml:id="measure-0000000606754492" n="2">
                      <staff xml:id="staff-0000001948093945" n="1">
                         <layer xml:id="layer-0000000437838765" n="1">
-                           <note xml:id="note-0000001430505301" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up" accid.ges="s" />
-                           <note xml:id="note-0000000139232141" dur.ppq="2" dur="4" oct="4" pname="b" stem.dir="down" />
-                           <note xml:id="note-0000001999217666" dur.ppq="4" dur="2" oct="4" pname="a" stem.dir="up">
+                           <note xml:id="note-0000001430505301" dur="4" oct="4" pname="f" stem.dir="up" accid.ges="s" />
+                           <note xml:id="note-0000000139232141" dur="4" oct="4" pname="b" stem.dir="down" />
+                           <note xml:id="note-0000001999217666" dur="2" oct="4" pname="a" stem.dir="up">
                               <artic xml:id="artic-0000000344589507" type="technical" artic="upbow" />
                            </note>
                         </layer>
@@ -101,15 +101,15 @@
                   <measure xml:id="measure-0000002116445122" n="3">
                      <staff xml:id="staff-0000001092122522" n="1">
                         <layer xml:id="layer-0000001885253112" n="1">
-                           <note xml:id="note-0000000182890357" dots="1" dur.ppq="3" dur="4" oct="4" pname="a" stem.dir="up" />
-                           <note xml:id="note-0000001608522080" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up" />
+                           <note xml:id="note-0000000182890357" dots="1" dur="4" oct="4" pname="a" stem.dir="up" />
+                           <note xml:id="note-0000001608522080" dur="8" oct="4" pname="g" stem.dir="up" />
                            <beam xml:id="beam-0000000514854444">
-                              <note xml:id="note-0000000085198211" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up">
+                              <note xml:id="note-0000000085198211" dur="8" oct="4" pname="g" stem.dir="up">
                                  <artic xml:id="artic-0000000188363639" type="technical" artic="upbow" />
                               </note>
-                              <note xml:id="note-0000000266352791" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up" accid.ges="s" />
-                              <note xml:id="note-0000001641917257" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up" />
-                              <note xml:id="note-0000001778849597" dur.ppq="1" dur="8" oct="4" pname="d" stem.dir="up" />
+                              <note xml:id="note-0000000266352791" dur="8" oct="4" pname="f" stem.dir="up" accid.ges="s" />
+                              <note xml:id="note-0000001641917257" dur="8" oct="4" pname="e" stem.dir="up" />
+                              <note xml:id="note-0000001778849597" dur="8" oct="4" pname="d" stem.dir="up" />
                            </beam>
                         </layer>
                      </staff>
@@ -119,29 +119,29 @@
                   <measure xml:id="measure-0000000086613900" n="4">
                      <staff xml:id="staff-0000000443013635" n="1">
                         <layer xml:id="layer-0000002072045232" n="1">
-                           <note xml:id="note-0000000800768996" dur.ppq="2" dur="4" oct="4" pname="e" stem.dir="up">
+                           <note xml:id="note-0000000800768996" dur="4" oct="4" pname="e" stem.dir="up">
                               <artic xml:id="artic-0000002106057040" type="technical" artic="dnbow" />
                            </note>
-                           <note xml:id="note-0000001357166373" dur.ppq="2" dur="4" oct="3" pname="b" stem.dir="up" />
-                           <note xml:id="note-0000000064311565" dur.ppq="2" dur="4" oct="4" pname="d" stem.dir="up">
+                           <note xml:id="note-0000001357166373" dur="4" oct="3" pname="b" stem.dir="up" />
+                           <note xml:id="note-0000000064311565" dur="4" oct="4" pname="d" stem.dir="up">
                               <artic xml:id="artic-0000000802959622" type="technical" artic="upbow" />
                            </note>
-                           <note xml:id="note-0000001357774916" dur.ppq="2" dur="4" oct="4" pname="c" stem.dir="up" accid.ges="s" />
+                           <note xml:id="note-0000001357774916" dur="4" oct="4" pname="c" stem.dir="up" accid.ges="s" />
                         </layer>
                      </staff>
                   </measure>
                   <measure xml:id="measure-0000001570823141" n="5">
                      <staff xml:id="staff-0000001624115492" n="1">
                         <layer xml:id="layer-0000000023657028" n="1">
-                           <note xml:id="note-0000001840534050" dur.ppq="4" dur="2" oct="4" pname="d" stem.dir="up" />
+                           <note xml:id="note-0000001840534050" dur="2" oct="4" pname="d" stem.dir="up" />
                            <beam xml:id="beam-0000000937994944">
                               <note xml:id="note-0000000628594291" dur="16" oct="4" pname="e" grace="acc" stem.dir="up" />
                               <note xml:id="note-0000000204623587" dur="16" oct="4" pname="d" grace="acc" stem.dir="up" />
                            </beam>
-                           <note xml:id="note-0000000811456044" dur.ppq="2" dur="4" oct="4" pname="c" stem.dir="up" accid.ges="s">
+                           <note xml:id="note-0000000811456044" dur="4" oct="4" pname="c" stem.dir="up" accid.ges="s">
                               <artic xml:id="artic-0000001257519621" type="technical" artic="upbow" />
                            </note>
-                           <note xml:id="note-0000000958564548" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up" />
+                           <note xml:id="note-0000000958564548" dur="4" oct="4" pname="g" stem.dir="up" />
                         </layer>
                      </staff>
                      <dynam xml:id="dir-0000000729736643" place="below" staff="1" tstamp="1.000000" vgrp="1">
@@ -155,11 +155,11 @@
                   <measure xml:id="measure-0000000518503784" right="single" n="6">
                      <staff xml:id="staff-0000001315399295" n="1">
                         <layer xml:id="layer-0000000560898676" n="1">
-                           <note xml:id="note-0000001639721616" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up" accid.ges="s">
+                           <note xml:id="note-0000001639721616" dur="4" oct="4" pname="f" stem.dir="up" accid.ges="s">
                               <artic xml:id="artic-0000001929053918" type="technical" artic="dnbow" />
                            </note>
-                           <note xml:id="note-0000001231476396" dur.ppq="2" dur="4" oct="4" pname="b" stem.dir="down" />
-                           <note xml:id="note-0000001623750583" dur.ppq="4" dur="2" oct="4" pname="a" stem.dir="up">
+                           <note xml:id="note-0000001231476396" dur="4" oct="4" pname="b" stem.dir="down" />
+                           <note xml:id="note-0000001623750583" dur="2" oct="4" pname="a" stem.dir="up">
                               <artic xml:id="artic-0000001046720545" type="technical" artic="upbow" />
                            </note>
                         </layer>

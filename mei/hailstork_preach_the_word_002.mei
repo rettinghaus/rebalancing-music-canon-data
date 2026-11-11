@@ -64,19 +64,19 @@
                      <staff xml:id="smhw3ey" n="1">
                         <layer xml:id="l1t3hvx9" n="1">
                            <tuplet xml:id="t1fhh2cf" num="3" numbase="2" num.place="above" bracket.place="above" bracket.visible="true">
-                              <note xml:id="nzyklk3" dur.ppq="4" dur="4" oct="5" pname="e" stem.dir="down" accid.ges="f">
+                              <note xml:id="nzyklk3" dur="4" oct="5" pname="e" stem.dir="down" accid.ges="f">
                                  <verse xml:id="v1fk2mqq" n="1">
                                     <syl xml:id="s1myav3q" con="d" wordpos="i">Lis</syl>
                                  </verse>
                               </note>
-                              <note xml:id="n1euxmx9" dur.ppq="2" dur="8" oct="5" pname="c" stem.dir="down">
+                              <note xml:id="n1euxmx9" dur="8" oct="5" pname="c" stem.dir="down">
                                  <verse xml:id="v1p53dfh" n="1">
                                     <syl xml:id="s1sxiip3" con="s" wordpos="t">ten,</syl>
                                  </verse>
                               </note>
                            </tuplet>
-                           <note xml:id="n1081bfc" dur.ppq="12" dur="2" oct="5" pname="c" stem.dir="down" />
-                           <rest xml:id="r16vmis4" dur.ppq="6" dur="4" />
+                           <note xml:id="n1081bfc" dur="2" oct="5" pname="c" stem.dir="down" />
+                           <rest xml:id="r16vmis4" dur="4" />
                         </layer>
                      </staff>
                      <dynam xml:id="db0bagu" place="above" staff="1" tstamp="1.000000" val="80" vgrp="2031">mf</dynam>
@@ -89,20 +89,20 @@
                      <staff xml:id="s366051" n="1">
                         <layer xml:id="lgafzt1" n="1">
                            <tuplet xml:id="t823c4s" num="3" numbase="2" num.place="above" bracket.place="above" bracket.visible="true">
-                              <note xml:id="njx7wsa" dur.ppq="4" dur="4" oct="5" pname="e" stem.dir="down" accid.ges="f">
+                              <note xml:id="njx7wsa" dur="4" oct="5" pname="e" stem.dir="down" accid.ges="f">
                                  <verse xml:id="v14ssijt" n="1">
                                     <syl xml:id="s5yacrq" con="d" wordpos="i">Lis</syl>
                                  </verse>
                               </note>
-                              <note xml:id="n1j6yogx" dur.ppq="2" dur="8" oct="5" pname="c" stem.dir="down">
+                              <note xml:id="n1j6yogx" dur="8" oct="5" pname="c" stem.dir="down">
                                  <verse xml:id="v1xgfwig" n="1">
                                     <syl xml:id="ss11zhn" con="u" wordpos="t">ten,</syl>
                                  </verse>
                               </note>
                            </tuplet>
-                           <note xml:id="n1qhb57p" dur.ppq="12" dur="2" oct="5" pname="c" stem.dir="down" />
-                           <rest xml:id="r4agoom" dur.ppq="3" dur="8" />
-                           <note xml:id="n12kr51t" dur.ppq="3" dur="8" oct="5" pname="f" stem.dir="down">
+                           <note xml:id="n1qhb57p" dur="2" oct="5" pname="c" stem.dir="down" />
+                           <rest xml:id="r4agoom" dur="8" />
+                           <note xml:id="n12kr51t" dur="8" oct="5" pname="f" stem.dir="down">
                               <verse xml:id="v95s5t1" n="1">
                                  <syl xml:id="s8m42gr" con="s" wordpos="s">Lis</syl>
                               </verse>
@@ -121,18 +121,18 @@
                         <layer xml:id="lwh07ca" n="1">
                            <beam xml:id="bpbqmql">
                               <tuplet xml:id="t1nxpf5b" num="3" numbase="2" num.place="above" bracket.place="above" bracket.visible="true">
-                                 <note xml:id="n1i0n1cg" dur.ppq="2" dur="8" oct="5" pname="f" stem.dir="down" />
-                                 <note xml:id="n78dr4" dur.ppq="2" dur="8" oct="5" pname="d" stem.dir="down" />
-                                 <note xml:id="nzo82bp" dur.ppq="2" dur="8" oct="5" pname="c" stem.dir="down">
+                                 <note xml:id="n1i0n1cg" dur="8" oct="5" pname="f" stem.dir="down" />
+                                 <note xml:id="n78dr4" dur="8" oct="5" pname="d" stem.dir="down" />
+                                 <note xml:id="nzo82bp" dur="8" oct="5" pname="c" stem.dir="down">
                                     <verse xml:id="v1qnl1ff" n="1">
                                        <syl xml:id="s566mp1" con="u" wordpos="s">ten,</syl>
                                     </verse>
                                  </note>
                               </tuplet>
                            </beam>
-                           <note xml:id="nupz9w5" dur.ppq="6" dur="4" oct="5" pname="c" stem.dir="down" />
-                           <rest xml:id="r17120nj" dur.ppq="3" dur="8" />
-                           <note xml:id="ng9b6ml" dots="1" dur.ppq="9" dur="4" oct="5" pname="c" stem.dir="down">
+                           <note xml:id="nupz9w5" dur="4" oct="5" pname="c" stem.dir="down" />
+                           <rest xml:id="r17120nj" dur="8" />
+                           <note xml:id="ng9b6ml" dots="1" dur="4" oct="5" pname="c" stem.dir="down">
                               <verse xml:id="vs4hpc1" n="1">
                                  <syl xml:id="s1m8491v" con="d" wordpos="i">Lis</syl>
                               </verse>
@@ -151,17 +151,17 @@
                         <layer xml:id="l12776rq" n="1">
                            <beam xml:id="b1dnxder">
                               <tuplet xml:id="tr0ce6l" num="3" numbase="2" bracket.visible="false">
-                                 <note xml:id="n1uu7era" dur.ppq="2" dur="8" oct="5" pname="c" stem.dir="up" />
-                                 <note xml:id="n1pqei85" dur.ppq="2" dur="8" oct="4" pname="b" stem.dir="up" accid.ges="f" />
-                                 <note xml:id="nfgve7e" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
+                                 <note xml:id="n1uu7era" dur="8" oct="5" pname="c" stem.dir="up" />
+                                 <note xml:id="n1pqei85" dur="8" oct="4" pname="b" stem.dir="up" accid.ges="f" />
+                                 <note xml:id="nfgve7e" dur="8" oct="4" pname="g" stem.dir="up">
                                     <verse xml:id="v1bk1uw6" n="1">
                                        <syl xml:id="s9weksb" con="u" wordpos="s">ten.</syl>
                                     </verse>
                                  </note>
                               </tuplet>
                            </beam>
-                           <note xml:id="nzffoo7" dur.ppq="12" dur="2" oct="4" pname="g" stem.dir="up" />
-                           <rest xml:id="r1udl3c5" dur.ppq="6" dur="4" />
+                           <note xml:id="nzffoo7" dur="2" oct="4" pname="g" stem.dir="up" />
+                           <rest xml:id="r1udl3c5" dur="4" />
                         </layer>
                      </staff>
                      <dynam xml:id="d1gh9zln" place="above" staff="1" tstamp="1.000000" val="64" vgrp="2037">mp</dynam>
@@ -175,27 +175,27 @@
                      <staff xml:id="s1esp98v" n="1">
                         <layer xml:id="lcm35bc" n="1">
                            <tuplet xml:id="to094sv" num="3" numbase="2" num.place="above" bracket.place="above" bracket.visible="true">
-                              <note xml:id="nqndr2g" dur.ppq="4" dur="4" oct="5" pname="e" stem.dir="down" accid.ges="f">
+                              <note xml:id="nqndr2g" dur="4" oct="5" pname="e" stem.dir="down" accid.ges="f">
                                  <verse xml:id="v1uwe9wa" n="1">
                                     <syl xml:id="sjzegro" con="d" wordpos="i">Lis</syl>
                                  </verse>
                               </note>
-                              <note xml:id="nz9n6ol" dur.ppq="2" dur="8" oct="5" pname="c" stem.dir="down">
+                              <note xml:id="nz9n6ol" dur="8" oct="5" pname="c" stem.dir="down">
                                  <verse xml:id="vajg85n" n="1">
                                     <syl xml:id="sanipil" con="s" wordpos="t">ten,</syl>
                                  </verse>
                               </note>
                            </tuplet>
-                           <note xml:id="n1xcvzih" dur.ppq="6" dur="4" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="n1xcvzih" dur="4" oct="5" pname="c" stem.dir="down" />
                            <tuplet xml:id="t1tvsjz8" num="3" numbase="2" bracket.visible="true">
-                              <rest xml:id="r86w14a" dur.ppq="2" dur="8" />
+                              <rest xml:id="r86w14a" dur="8" />
                               <beam xml:id="b11908s3">
-                                 <note xml:id="n17etxjj" dur.ppq="2" dur="8" oct="4" pname="e" stem.dir="up" accid.ges="f">
+                                 <note xml:id="n17etxjj" dur="8" oct="4" pname="e" stem.dir="up" accid.ges="f">
                                     <verse xml:id="v1wyh4oy" n="1">
                                        <syl xml:id="s1xxnjoe" con="s" wordpos="s">it's</syl>
                                     </verse>
                                  </note>
-                                 <note xml:id="nhodw6" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
+                                 <note xml:id="nhodw6" dur="8" oct="4" pname="g" stem.dir="up">
                                     <verse xml:id="v1h2mxq1" n="1">
                                        <syl xml:id="s1btnx4g" con="s" wordpos="s">the</syl>
                                     </verse>
@@ -203,24 +203,24 @@
                               </beam>
                            </tuplet>
                            <beam xml:id="b1cf342b">
-                              <note xml:id="nd7mqbx" dur.ppq="3" dur="8" oct="4" pname="a" stem.dir="down">
+                              <note xml:id="nd7mqbx" dur="8" oct="4" pname="a" stem.dir="down">
                                  <verse xml:id="v11w7vqc" n="1">
                                     <syl xml:id="sjna8o1" con="d" wordpos="i">thun</syl>
                                  </verse>
                               </note>
-                              <note xml:id="n1vrpw0m" dur.ppq="3" dur="8" oct="5" pname="c" stem.dir="down">
+                              <note xml:id="n1vrpw0m" dur="8" oct="5" pname="c" stem.dir="down">
                                  <verse xml:id="v1m5wntd" n="1">
                                     <syl xml:id="sdauggg" con="s" wordpos="t">der</syl>
                                  </verse>
                               </note>
                            </beam>
                            <beam xml:id="b15gyynk">
-                              <note xml:id="n1hu40kf" dur.ppq="3" dur="8" oct="5" pname="f" stem.dir="down">
+                              <note xml:id="n1hu40kf" dur="8" oct="5" pname="f" stem.dir="down">
                                  <verse xml:id="v150ejdo" n="1">
                                     <syl xml:id="s9fciik" con="s" wordpos="s">of</syl>
                                  </verse>
                               </note>
-                              <note xml:id="n22ojmo" dur.ppq="3" dur="8" oct="5" pname="e" stem.dir="down" accid.ges="f">
+                              <note xml:id="n22ojmo" dur="8" oct="5" pname="e" stem.dir="down" accid.ges="f">
                                  <verse xml:id="v1p0u8q2" n="1">
                                     <syl xml:id="s1azcte9" con="s" wordpos="s">my</syl>
                                  </verse>
@@ -238,19 +238,19 @@
                      <staff xml:id="s1y2ohfu" n="1">
                         <layer xml:id="l10rm3t7" n="1">
                            <tuplet xml:id="t1jghptt" num="3" numbase="2" num.place="above" bracket.place="above" bracket.visible="true">
-                              <note xml:id="na30xb7" dur.ppq="4" dur="4" oct="5" pname="d" stem.dir="down">
+                              <note xml:id="na30xb7" dur="4" oct="5" pname="d" stem.dir="down">
                                  <verse xml:id="v1799d4t" n="1">
                                     <syl xml:id="s1suehfy" con="d" wordpos="i">peo</syl>
                                  </verse>
                               </note>
-                              <note xml:id="n1wtj4p9" dur.ppq="2" dur="8" oct="5" pname="c" stem.dir="down">
+                              <note xml:id="n1wtj4p9" dur="8" oct="5" pname="c" stem.dir="down">
                                  <verse xml:id="vt3h44" n="1">
                                     <syl xml:id="s1eqzfxf" con="u" wordpos="t">ple;</syl>
                                  </verse>
                               </note>
                            </tuplet>
-                           <note xml:id="nv68obp" dur.ppq="12" dur="2" oct="5" pname="c" stem.dir="down" />
-                           <rest xml:id="r3kifxw" dur.ppq="6" dur="4" />
+                           <note xml:id="nv68obp" dur="2" oct="5" pname="c" stem.dir="down" />
+                           <rest xml:id="r3kifxw" dur="4" />
                         </layer>
                      </staff>
                      <tie xml:id="t182izsv" startid="#n1wtj4p9" endid="#nv68obp" />

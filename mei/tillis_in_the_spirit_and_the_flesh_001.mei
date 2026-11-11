@@ -56,16 +56,16 @@
                         <layer xml:id="ludd4jc" n="1">
                            <beam xml:id="bb6408w">
                               <tuplet xml:id="tlvir5p" num="5" numbase="4" bracket.visible="false">
-                                 <note xml:id="ng5kctd" dur.ppq="6" dur="16" oct="2" pname="g" stem.dir="up">
+                                 <note xml:id="ng5kctd" dur="16" oct="2" pname="g" stem.dir="up">
                                     <artic xml:id="a42gr7u" artic="acc" />
                                  </note>
-                                 <note xml:id="njjjtxk" dur.ppq="6" dur="16" oct="2" pname="a" stem.dir="up" />
-                                 <note xml:id="nkc3xkl" dur.ppq="6" dur="16" oct="2" pname="b" stem.dir="up" />
-                                 <note xml:id="naioglq" dur.ppq="6" dur="16" oct="3" pname="c" stem.dir="up" accid="s" />
-                                 <note xml:id="nt50l5r" dur.ppq="6" dur="16" oct="3" pname="d" stem.dir="up" />
+                                 <note xml:id="njjjtxk" dur="16" oct="2" pname="a" stem.dir="up" />
+                                 <note xml:id="nkc3xkl" dur="16" oct="2" pname="b" stem.dir="up" />
+                                 <note xml:id="naioglq" dur="16" oct="3" pname="c" stem.dir="up" accid="s" />
+                                 <note xml:id="nt50l5r" dur="16" oct="3" pname="d" stem.dir="up" />
                               </tuplet>
                            </beam>
-                           <note xml:id="nasm7a1" dots="1" dur.ppq="90" dur="2" oct="3" pname="d" stem.dir="down" />
+                           <note xml:id="nasm7a1" dots="1" dur="2" oct="3" pname="d" stem.dir="down" />
                         </layer>
                      </staff>
                         <tie startid="#nasm7a1" endid="#n9wm8ax" />
@@ -85,14 +85,14 @@
                   <measure xml:id="mp6y520" n="2">
                      <staff xml:id="shnc6pd" n="1">
                         <layer xml:id="ls8k04k" n="1">
-                           <note xml:id="n9wm8ax" dur.ppq="30" dur="4" oct="3" pname="d" stem.dir="down" />
-                           <note xml:id="ng6j2jl" dots="1" dur.ppq="45" dur="4" oct="3" pname="c" stem.dir="up">
+                           <note xml:id="n9wm8ax" dur="4" oct="3" pname="d" stem.dir="down" />
+                           <note xml:id="ng6j2jl" dots="1" dur="4" oct="3" pname="c" stem.dir="up">
                               <artic xml:id="arvoul" artic="acc" />
                            </note>
-                           <note xml:id="nkjrayl" dur.ppq="15" dur="8" oct="3" pname="f" stem.dir="down">
+                           <note xml:id="nkjrayl" dur="8" oct="3" pname="f" stem.dir="down">
                               <artic xml:id="adaxafr" artic="acc" />
                            </note>
-                           <note xml:id="n7v9xk6" dur.ppq="30" dur="4" oct="3" pname="f" stem.dir="down" />
+                           <note xml:id="n7v9xk6" dur="4" oct="3" pname="f" stem.dir="down" />
                         </layer>
                      </staff>
                      <tie xml:id="tlqjqg8" startid="#nkjrayl" endid="#n7v9xk6" />
@@ -102,12 +102,12 @@
                      <staff xml:id="sp3whux" n="1">
                         <layer xml:id="l74x97x" n="1">
                            <beam xml:id="bv89c84">
-                              <note xml:id="ny7689p" dur.ppq="15" dur="8" oct="3" pname="f" stem.dir="down" />
-                              <note xml:id="na5988k" dur.ppq="15" dur="8" oct="3" pname="d" stem.dir="down">
+                              <note xml:id="ny7689p" dur="8" oct="3" pname="f" stem.dir="down" />
+                              <note xml:id="na5988k" dur="8" oct="3" pname="d" stem.dir="down">
                                  <artic xml:id="anh645j" artic="marc" />
                               </note>
                            </beam>
-                           <note xml:id="nmkn4mb" dots="1" dur.ppq="90" dur="2" oct="3" pname="d" stem.dir="down" />
+                           <note xml:id="nmkn4mb" dots="1" dur="2" oct="3" pname="d" stem.dir="down" />
                         </layer>
                      </staff>
                      <tie xml:id="t8yn81j" startid="#na5988k" endid="#nmkn4mb" />
@@ -116,7 +116,7 @@
                   <measure xml:id="m912n6m" n="4">
                      <staff xml:id="szdq6o4" n="1">
                         <layer xml:id="ll8p0vb" n="1">
-                           <note xml:id="nz08cp4" dur.ppq="120" dur="1" oct="3" pname="d" />
+                           <note xml:id="nz08cp4" dur="1" oct="3" pname="d" />
                         </layer>
                      </staff>
                   </measure>
@@ -125,12 +125,12 @@
                         <layer xml:id="lxikfuf" n="1">
                            <beam xml:id="bmvisno">
                               <tuplet xml:id="tbkff8y" num="3" numbase="2" bracket.visible="false">
-                                 <note xml:id="ncyeubw" dur.ppq="10" dur="8" oct="2" pname="a" stem.dir="up" accid="f" />
-                                 <note xml:id="nh3x3yi" dur.ppq="10" dur="8" oct="3" pname="c" stem.dir="up" />
-                                 <note xml:id="n4js2kj" dur.ppq="10" dur="8" oct="3" pname="d" stem.dir="up" />
+                                 <note xml:id="ncyeubw" dur="8" oct="2" pname="a" stem.dir="up" accid="f" />
+                                 <note xml:id="nh3x3yi" dur="8" oct="3" pname="c" stem.dir="up" />
+                                 <note xml:id="n4js2kj" dur="8" oct="3" pname="d" stem.dir="up" />
                               </tuplet>
                            </beam>
-                           <note xml:id="nw5ggj0" dots="1" dur.ppq="90" dur="2" oct="3" pname="d" stem.dir="down" />
+                           <note xml:id="nw5ggj0" dots="1" dur="2" oct="3" pname="d" stem.dir="down" />
                         </layer>
                      </staff>
                      <slur xml:id="scb608l" startid="#ncyeubw" endid="#nh3x3yi" curvedir="below" />

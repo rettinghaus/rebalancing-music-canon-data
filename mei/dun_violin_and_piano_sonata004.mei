@@ -55,7 +55,7 @@
                      <mNum xml:id="mfv9t7g" />
                      <staff xml:id="slfqded" n="1">
                         <layer xml:id="l9ul89" n="1">
-                           <note xml:id="nydpirs" dur.ppq="2" dur="4" oct="3" pname="a" stem.dir="up" />
+                           <note xml:id="nydpirs" dur="4" oct="3" pname="a" stem.dir="up" />
                         </layer>
                      </staff>
                      <dynam xml:id="dowlmuo" place="below" staff="1" tstamp="1.000000" val="80" vgrp="65">mf dolce</dynam>
@@ -71,13 +71,13 @@
                   <measure xml:id="me9v8z3" n="1">
                      <staff xml:id="s4tcbjc" n="1">
                         <layer xml:id="l12fn7h" n="1">
-                           <note xml:id="nds50pj" dots="1" dur.ppq="6" dur="2" oct="4" pname="e" stem.dir="up" />
+                           <note xml:id="nds50pj" dots="1" dur="2" oct="4" pname="e" stem.dir="up" />
                            <beam xml:id="brqm8j1">
-                              <note xml:id="nl94vnt" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up">
+                              <note xml:id="nl94vnt" dur="8" oct="4" pname="g" stem.dir="up">
                                  <artic xml:id="alb0fko" type="technical" artic="harm" />
                                  <artic xml:id="ay3ygsb" type="technical" artic="upbow" />
                               </note>
-                              <note xml:id="ncebjn3" dur.ppq="1" dur="8" oct="3" pname="g" stem.dir="up" />
+                              <note xml:id="ncebjn3" dur="8" oct="3" pname="g" stem.dir="up" />
                            </beam>
                         </layer>
                      </staff>
@@ -87,12 +87,12 @@
                   <measure xml:id="myzaosi" n="2">
                      <staff xml:id="s994u4h" n="1">
                         <layer xml:id="lhfbn4q" n="1">
-                           <note xml:id="n6sh8z" dots="1" dur.ppq="6" dur="2" oct="3" pname="a" stem.dir="up" />
+                           <note xml:id="n6sh8z" dots="1" dur="2" oct="3" pname="a" stem.dir="up" />
                            <beam xml:id="b1369lb">
-                              <note xml:id="n2jrrda" dur.ppq="1" dur="8" oct="3" pname="g" stem.dir="up">
+                              <note xml:id="n2jrrda" dur="8" oct="3" pname="g" stem.dir="up">
                                  <artic xml:id="adpm8nd" type="technical" artic="upbow" />
                               </note>
-                              <note xml:id="nylxydy" dur.ppq="1" dur="8" oct="3" pname="a" stem.dir="up" />
+                              <note xml:id="nylxydy" dur="8" oct="3" pname="a" stem.dir="up" />
                            </beam>
                         </layer>
                      </staff>
@@ -102,10 +102,10 @@
                   <measure xml:id="mkskh75" n="3">
                      <staff xml:id="s2qmx4u" n="1">
                         <layer xml:id="lm584p1" n="1">
-                           <note xml:id="nn3yodh" dots="1" dur.ppq="3" dur="4" oct="4" pname="c" stem.dir="up" />
-                           <note xml:id="nuzxza0" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up" />
-                           <note xml:id="noz434y" dots="1" dur.ppq="3" dur="4" oct="4" pname="g" stem.dir="up" />
-                           <note xml:id="nvxkltv" dur.ppq="1" dur="8" oct="5" pname="d" stem.dir="down">
+                           <note xml:id="nn3yodh" dots="1" dur="4" oct="4" pname="c" stem.dir="up" />
+                           <note xml:id="nuzxza0" dur="8" oct="4" pname="a" stem.dir="up" />
+                           <note xml:id="noz434y" dots="1" dur="4" oct="4" pname="g" stem.dir="up" />
+                           <note xml:id="nvxkltv" dur="8" oct="5" pname="d" stem.dir="down">
                               <artic xml:id="al1crov" type="technical" artic="harm" />
                            </note>
                         </layer>
@@ -117,12 +117,12 @@
                   <measure xml:id="mxjov6r" n="4">
                      <staff xml:id="s7frdp2" n="1">
                         <layer xml:id="l15razm" n="1">
-                           <note xml:id="nwkgjnl" dots="1" dur.ppq="6" dur="2" oct="4" pname="e" stem.dir="up">
+                           <note xml:id="nwkgjnl" dots="1" dur="2" oct="4" pname="e" stem.dir="up">
                               <artic xml:id="ac1gya1" type="technical" artic="upbow" />
                            </note>
                            <beam xml:id="bp9odhr">
-                              <note xml:id="n5kpqc4" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up" />
-                              <note xml:id="n4d684m" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up" />
+                              <note xml:id="n5kpqc4" dur="8" oct="4" pname="a" stem.dir="up" />
+                              <note xml:id="n4d684m" dur="8" oct="4" pname="g" stem.dir="up" />
                            </beam>
                         </layer>
                      </staff>
@@ -132,12 +132,12 @@
                   <measure xml:id="mph6n9g" n="5">
                      <staff xml:id="sv29jki" n="1">
                         <layer xml:id="lc3clku" n="1">
-                           <note xml:id="nmj3svb" dots="1" dur.ppq="6" dur="2" oct="4" pname="a" stem.dir="up" />
+                           <note xml:id="nmj3svb" dots="1" dur="2" oct="4" pname="a" stem.dir="up" />
                            <beam xml:id="bgp5mxd">
-                              <note xml:id="nx8gujp" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="up">
+                              <note xml:id="nx8gujp" dur="8" oct="5" pname="c" stem.dir="up">
                                  <artic xml:id="awrh2uf" type="technical" artic="dnbow" />
                               </note>
-                              <note xml:id="nnuhwhh" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up" />
+                              <note xml:id="nnuhwhh" dur="8" oct="4" pname="e" stem.dir="up" />
                            </beam>
                         </layer>
                      </staff>

@@ -67,8 +67,8 @@
                   <measure xml:id="m10cijw" n="2">
                      <staff xml:id="s6uhplb" n="1">
                         <layer xml:id="l118046" n="1">
-                           <note xml:id="n3sngo1" dur.ppq="24" dur="2" oct="5" pname="d" stem.dir="down" accid="s" />
-                           <note xml:id="nmvzdo" dur.ppq="24" dur="2" oct="5" pname="e" stem.dir="down" />
+                           <note xml:id="n3sngo1" dur="2" oct="5" pname="d" stem.dir="down" accid="s" />
+                           <note xml:id="nmvzdo" dur="2" oct="5" pname="e" stem.dir="down" />
                         </layer>
                      </staff>
                      <dir xml:id="dvkelhq" place="above" staff="1" tstamp="1.000000" vgrp="200">
@@ -82,8 +82,8 @@
                      <staff xml:id="s9y2t6l" n="1">
                         <layer xml:id="lmi8y1h" n="1">
                            <fTrem xml:id="fspht2r" beams="3" beams.float="3">
-                              <note xml:id="n877a3o" dur.ppq="24" dur="1" oct="5" pname="e" />
-                              <note xml:id="nysuyj0" dur.ppq="24" dur="1" oct="5" pname="g" />
+                              <note xml:id="n877a3o" dur="1" oct="5" pname="e" />
+                              <note xml:id="nysuyj0" dur="1" oct="5" pname="g" />
                            </fTrem>
                         </layer>
                      </staff>
@@ -94,22 +94,22 @@
                         <layer xml:id="lsgo7zj" n="1">
                            <beam xml:id="bkmhz96">
                               <tuplet xml:id="tzfclfp" num="3" numbase="2" bracket.visible="false">
-                                 <note xml:id="n7pran7" dur.ppq="4" dur="8" oct="4" pname="g" stem.dir="up" />
-                                 <note xml:id="nonjhbj" dur.ppq="4" dur="8" oct="4" pname="g" stem.dir="up" />
+                                 <note xml:id="n7pran7" dur="8" oct="4" pname="g" stem.dir="up" />
+                                 <note xml:id="nonjhbj" dur="8" oct="4" pname="g" stem.dir="up" />
                                  <note xml:id="nt7orzf" dur="8" oct="4" pname="b" grace="unacc" stem.dir="down" stem.mod="1slash" accid="f" />
-                                 <note xml:id="n6mkgld" dur.ppq="4" dur="8" oct="5" pname="c" stem.dir="up" />
+                                 <note xml:id="n6mkgld" dur="8" oct="5" pname="c" stem.dir="up" />
                               </tuplet>
                            </beam>
                            <beam xml:id="b9mwx3n">
-                              <note xml:id="n97e7f1" dur.ppq="6" dur="8" oct="5" pname="c" stem.dir="up" />
-                              <note xml:id="nch7tbj" dur.ppq="6" dur="8" oct="4" pname="g" stem.dir="up" />
+                              <note xml:id="n97e7f1" dur="8" oct="5" pname="c" stem.dir="up" />
+                              <note xml:id="nch7tbj" dur="8" oct="4" pname="g" stem.dir="up" />
                            </beam>
-                           <note xml:id="n8j08rc" dur.ppq="6" dur="8" oct="4" pname="a" stem.dir="up" />
-                           <note xml:id="ngu4p3i" dur.ppq="12" dur="4" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="n8j08rc" dur="8" oct="4" pname="a" stem.dir="up" />
+                           <note xml:id="ngu4p3i" dur="4" oct="5" pname="c" stem.dir="down" />
                            <note xml:id="nozyz7k" dur="8" oct="5" pname="d" grace="unacc" stem.dir="up" stem.mod="1slash" accid="s" />
                            <beam xml:id="bnogbj5">
-                              <note xml:id="n120n1z" dur.ppq="3" dur="16" oct="5" pname="e" stem.dir="down" />
-                              <note xml:id="ne2msfp" dur.ppq="3" dur="16" oct="5" pname="g" stem.dir="down" />
+                              <note xml:id="n120n1z" dur="16" oct="5" pname="e" stem.dir="down" />
+                              <note xml:id="ne2msfp" dur="16" oct="5" pname="g" stem.dir="down" />
                            </beam>
                         </layer>
                      </staff>
@@ -121,14 +121,14 @@
                      <staff xml:id="sfu0xrq" n="1">
                         <layer xml:id="ll8mt4e" n="1">
                            <fTrem xml:id="ftll8a8" beams="3" beams.float="3">
-                              <note xml:id="ngmiq6v" dur.ppq="12" dur="2" oct="4" pname="a" stem.dir="up" />
-                              <note xml:id="nqz9yxc" dur.ppq="12" dur="2" oct="4" pname="g" stem.dir="up" />
+                              <note xml:id="ngmiq6v" dur="2" oct="4" pname="a" stem.dir="up" />
+                              <note xml:id="nqz9yxc" dur="2" oct="4" pname="g" stem.dir="up" />
                            </fTrem>
                            <note xml:id="nb41xx6" dur="8" oct="4" pname="d" grace="unacc" stem.dir="down" stem.mod="1slash" accid="s" />
-                           <note xml:id="nov9g0" dots="1" dur.ppq="18" dur="4" oct="4" pname="e" stem.dir="up" />
+                           <note xml:id="nov9g0" dots="1" dur="4" oct="4" pname="e" stem.dir="up" />
                            <beam xml:id="boyskeh">
-                              <note xml:id="nnbr1id" dur.ppq="3" dur="16" oct="4" pname="g" stem.dir="up" />
-                              <note xml:id="nh2364f" dur.ppq="3" dur="16" oct="4" pname="a" stem.dir="up" />
+                              <note xml:id="nnbr1id" dur="16" oct="4" pname="g" stem.dir="up" />
+                              <note xml:id="nh2364f" dur="16" oct="4" pname="a" stem.dir="up" />
                            </beam>
                         </layer>
                      </staff>
@@ -138,7 +138,7 @@
                   <measure xml:id="mlyw516" n="6">
                      <staff xml:id="syw1veo" n="1">
                         <layer xml:id="l60krp3" n="1">
-                           <note xml:id="nuhgo2m" dur.ppq="48" dur="1" oct="4" pname="e" />
+                           <note xml:id="nuhgo2m" dur="1" oct="4" pname="e" />
                         </layer>
                      </staff>
                   </measure>

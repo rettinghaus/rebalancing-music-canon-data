@@ -65,8 +65,8 @@
                   <measure xml:id="min75c5" n="3">
                      <staff xml:id="sz0mcrc" n="1">
                         <layer xml:id="l3i1hk2" n="1">
-                           <rest xml:id="rwjt3hr" dur.ppq="2" dur="4" />
-                           <note xml:id="ntoi8ni" dots="1" dur.ppq="6" dur="2" oct="5" pname="c" stem.dir="down" />
+                           <rest xml:id="rwjt3hr" dur="4" />
+                           <note xml:id="ntoi8ni" dots="1" dur="2" oct="5" pname="c" stem.dir="down" />
                         </layer>
                      </staff>
                      <dynam xml:id="d5qlfth" place="below" staff="1" tstamp="2.000000" val="49" vgrp="1">p</dynam>
@@ -78,9 +78,9 @@
                   <measure xml:id="mz1hh8j" n="4">
                      <staff xml:id="seep3q7" n="1">
                         <layer xml:id="l7gdtt2" n="1">
-                           <note xml:id="n17xl78" dur.ppq="2" dur="4" oct="5" pname="c" stem.dir="down" />
-                           <note xml:id="npzqtqz" dur.ppq="2" dur="4" oct="5" pname="c" stem.dir="down" />
-                           <note xml:id="nqzkb0e" dur.ppq="4" dur="2" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="n17xl78" dur="4" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="npzqtqz" dur="4" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="nqzkb0e" dur="2" oct="5" pname="c" stem.dir="down" />
                         </layer>
                      </staff>
                      <dynam xml:id="dj1065e" place="below" staff="1" tstamp="2.000000" val="80" vgrp="1">mf</dynam>
@@ -91,14 +91,14 @@
                   <measure xml:id="mnntf8c" n="5">
                      <staff xml:id="sk757r1" n="1">
                         <layer xml:id="l3hme4w" n="1">
-                           <note xml:id="n54vjtr" dur.ppq="8" dur="1" oct="5" pname="c" />
+                           <note xml:id="n54vjtr" dur="1" oct="5" pname="c" />
                         </layer>
                      </staff>
                   </measure>
                   <measure xml:id="m7q54tu" n="6">
                      <staff xml:id="shz9ak3" n="1">
                         <layer xml:id="l98n8nt" n="1">
-                           <note xml:id="ndnienw" dur.ppq="8" dur="1" oct="5" pname="c" />
+                           <note xml:id="ndnienw" dur="1" oct="5" pname="c" />
                         </layer>
                      </staff>
                   </measure>
@@ -106,14 +106,14 @@
                      <staff xml:id="s74ps5f" n="1">
                         <layer xml:id="lijua6m" n="1">
                            <beam xml:id="bz14vjk">
-                              <note xml:id="n5981u4" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="down" />
-                              <note xml:id="nmfhuv8" dur.ppq="1" dur="8" oct="5" pname="a" stem.dir="down" accid="f" />
+                              <note xml:id="n5981u4" dur="8" oct="5" pname="c" stem.dir="down" />
+                              <note xml:id="nmfhuv8" dur="8" oct="5" pname="a" stem.dir="down" accid="f" />
                            </beam>
                            <beam xml:id="b9vt1tf">
-                              <note xml:id="n7u37m3" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="down" />
-                              <note xml:id="nrnsngg" dur.ppq="1" dur="8" oct="5" pname="a" stem.dir="down" accid.ges="f" />
+                              <note xml:id="n7u37m3" dur="8" oct="5" pname="c" stem.dir="down" />
+                              <note xml:id="nrnsngg" dur="8" oct="5" pname="a" stem.dir="down" accid.ges="f" />
                            </beam>
-                           <note xml:id="nonch8y" dur.ppq="4" dur="2" oct="5" pname="a" stem.dir="down" accid.ges="f" />
+                           <note xml:id="nonch8y" dur="2" oct="5" pname="a" stem.dir="down" accid.ges="f" />
                         </layer>
                      </staff>
                      <dynam xml:id="dgviila" place="below" staff="1" tstamp="1.000000" val="49" vgrp="1">p</dynam>
@@ -126,7 +126,7 @@
                   <measure xml:id="maikgwg" n="8">
                      <staff xml:id="sd7xt32" n="1">
                         <layer xml:id="l15wdx6" n="1">
-                           <note xml:id="nvr747l" dur.ppq="8" dur="1" oct="5" pname="a" accid.ges="f" />
+                           <note xml:id="nvr747l" dur="1" oct="5" pname="a" accid.ges="f" />
                         </layer>
                      </staff>
                      <dynam xml:id="dihtucs" place="below" staff="1" tstamp="1.000000" val="64" vgrp="1">mp</dynam>

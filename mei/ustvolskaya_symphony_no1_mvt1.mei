@@ -54,9 +54,9 @@
                   <measure xml:id="m4d4kcd" n="1">
                      <staff xml:id="saxwll0" n="1">
                         <layer xml:id="lugibm3" n="1">
-                           <note xml:id="nwl0rhq" dur.ppq="1" dur="4" oct="5" pname="g" stem.dir="down" />
-                           <note xml:id="nrdtmai" dur.ppq="2" dur="2" oct="5" pname="g" stem.dir="down" accid="f" />
-                           <note xml:id="n776vz1" dur.ppq="1" dur="4" oct="5" pname="b" stem.dir="down" />
+                           <note xml:id="nwl0rhq" dur="4" oct="5" pname="g" stem.dir="down" />
+                           <note xml:id="nrdtmai" dur="2" oct="5" pname="g" stem.dir="down" accid="f" />
+                           <note xml:id="n776vz1" dur="4" oct="5" pname="b" stem.dir="down" />
                         </layer>
                      </staff>
                      <dynam place="below" staff="1" tstamp="1.000000" val="49" vgrp="209">p espr.</dynam>
@@ -68,10 +68,10 @@
                   <measure xml:id="mpl6dxa" n="2">
                      <staff xml:id="swou2d" n="1">
                         <layer xml:id="l2ae0u" n="1">
-                           <note xml:id="np9nxxi" dur.ppq="1" dur="4" oct="5" pname="g" stem.dir="down" accid="n" />
-                           <note xml:id="nsknxas" dur.ppq="1" dur="4" oct="5" pname="g" stem.dir="down" accid="f" />
-                           <note xml:id="ns3om0y" dur.ppq="1" dur="4" oct="5" pname="e" stem.dir="down" />
-                           <note xml:id="njkazs6" dur.ppq="1" dur="4" oct="5" pname="e" stem.dir="down" />
+                           <note xml:id="np9nxxi" dur="4" oct="5" pname="g" stem.dir="down" accid="n" />
+                           <note xml:id="nsknxas" dur="4" oct="5" pname="g" stem.dir="down" accid="f" />
+                           <note xml:id="ns3om0y" dur="4" oct="5" pname="e" stem.dir="down" />
+                           <note xml:id="njkazs6" dur="4" oct="5" pname="e" stem.dir="down" />
                         </layer>
                      </staff>
                   </measure>
@@ -81,15 +81,15 @@
                   <measure xml:id="myurxsk" n="3">
                      <staff xml:id="spi44ab" n="1">
                         <layer xml:id="l5iqhr9" n="1">
-                           <note xml:id="n9ng5qy" dur.ppq="2" dur="2" oct="5" pname="e" stem.dir="down" accid="f" />
-                           <note xml:id="nwqpfiv" dur.ppq="1" dur="4" oct="5" pname="d" stem.dir="down" />
+                           <note xml:id="n9ng5qy" dur="2" oct="5" pname="e" stem.dir="down" accid="f" />
+                           <note xml:id="nwqpfiv" dur="4" oct="5" pname="d" stem.dir="down" />
                         </layer>
                      </staff>
                   </measure>
                   <measure xml:id="mhykrhs" n="4">
                      <staff xml:id="s5obfmw" n="1">
                         <layer xml:id="lw28jol" n="1">
-                           <note xml:id="nvk4p8l" dots="1" dur.ppq="3" dur="2" oct="4" pname="b" stem.dir="down" />
+                           <note xml:id="nvk4p8l" dots="1" dur="2" oct="4" pname="b" stem.dir="down" />
                         </layer>
                      </staff>
                   </measure>

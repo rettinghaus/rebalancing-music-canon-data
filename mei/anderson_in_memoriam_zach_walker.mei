@@ -58,7 +58,7 @@
                      <staff xml:id="staff-0000001070403365" n="1">
                         <layer xml:id="layer-0000000814266155" n="1">
                            <note xml:id="note-0000001209456266" dur="8" oct="6" pname="c" grace="unacc" stem.dir="down" stem.mod="1slash" />
-                           <note xml:id="note-0000000841600129" dur.ppq="8" dur="1" oct="5" pname="b">
+                           <note xml:id="note-0000000841600129" dur="1" oct="5" pname="b">
                               <accid xml:id="accid-0000001563338482" accid="f" accid.ges="f" />
                            </note>
                         </layer>
@@ -73,10 +73,10 @@
                   <measure xml:id="measure-0000000506531739" n="2">
                      <staff xml:id="staff-0000000012577227" n="1">
                         <layer xml:id="layer-0000001587610470" n="1">
-                           <note xml:id="note-0000000503054274" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up" />
-                           <rest xml:id="rest-0000000479699352" dur.ppq="1" dur="8" />
-                           <rest xml:id="rest-0000001970960469" dur.ppq="2" dur="4" />
-                           <rest xml:id="rest-0000000159363182" dur.ppq="4" dur="2" />
+                           <note xml:id="note-0000000503054274" dur="8" oct="4" pname="a" stem.dir="up" />
+                           <rest xml:id="rest-0000000479699352" dur="8" />
+                           <rest xml:id="rest-0000001970960469" dur="4" />
+                           <rest xml:id="rest-0000000159363182" dur="2" />
                         </layer>
                      </staff>
                   </measure>
@@ -90,15 +90,15 @@
                   <measure xml:id="measure-0000000577001958" n="5">
                      <staff xml:id="staff-0000000190085979" n="1">
                         <layer xml:id="layer-0000001723891325" n="1">
-                           <rest xml:id="rest-0000001068844941" dur.ppq="1" dur="8" />
+                           <rest xml:id="rest-0000001068844941" dur="8" />
                            <beam xml:id="beam-0000001334735816">
-                              <note xml:id="note-0000001445222567" dur.ppq="1" dur="8" oct="3" pname="a" stem.dir="up" />
-                              <note xml:id="note-0000001995905729" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up">
+                              <note xml:id="note-0000001445222567" dur="8" oct="3" pname="a" stem.dir="up" />
+                              <note xml:id="note-0000001995905729" dur="8" oct="4" pname="e" stem.dir="up">
                                  <accid xml:id="accid-0000001157444545" accid="f" accid.ges="f" />
                               </note>
-                              <note xml:id="note-0000000435126885" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="up" />
+                              <note xml:id="note-0000000435126885" dur="8" oct="5" pname="c" stem.dir="up" />
                            </beam>
-                           <note xml:id="note-0000000164698393" dur.ppq="4" dur="2" oct="5" pname="c" stem.dir="up" />
+                           <note xml:id="note-0000000164698393" dur="2" oct="5" pname="c" stem.dir="up" />
                         </layer>
                      </staff>
                      <dir xml:id="dir-0000001835101377" place="below" staff="1" tstamp="1.000000" vgrp="40">

@@ -95,8 +95,8 @@
                   <measure xml:id="mxutrdl" n="4">
                      <staff xml:id="s1ujprgi" n="1">
                         <layer xml:id="l1884rah" n="1">
-                           <rest xml:id="r1bljoev" dur.ppq="8" dur="2" />
-                           <rest xml:id="rwi4ibm" dur.ppq="2" dur="8" />
+                           <rest xml:id="r1bljoev" dur="2" />
+                           <rest xml:id="rwi4ibm" dur="8" />
                         </layer>
                      </staff>
                      <tempo xml:id="t14k2ljs" place="above" staff="1" tstamp="4.000000" xml:lang="it" midi.bpm="94.000000">
@@ -118,7 +118,7 @@
                      <staff xml:id="sfny9fo" n="1">
                         <layer xml:id="l1thrw6c" n="1">
                            <beam xml:id="bqfwkmn">
-                              <note xml:id="nav8enz" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up">
+                              <note xml:id="nav8enz" dur="8" oct="4" pname="a" stem.dir="up">
                                  <verse xml:id="v1os1932" n="1">
                                     <syl xml:id="s1c1886a" con="d" wordpos="i">Як</syl>
                                  </verse>
@@ -126,7 +126,7 @@
                                     <syl xml:id="s1c4hgaz" fontstyle="italic" con="d" wordpos="i">Yak</syl>
                                  </verse>
                               </note>
-                              <note xml:id="n1h95ts" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up">
+                              <note xml:id="n1h95ts" dur="8" oct="4" pname="a" stem.dir="up">
                                  <verse xml:id="v1xdze7s" n="1">
                                     <syl xml:id="s1oaz678" con="s" wordpos="t">би</syl>
                                  </verse>
@@ -136,7 +136,7 @@
                               </note>
                            </beam>
                            <beam xml:id="b3bukfi">
-                              <note xml:id="n1mus9rj" dur.ppq="2" dur="8" oct="5" pname="e" stem.dir="down">
+                              <note xml:id="n1mus9rj" dur="8" oct="5" pname="e" stem.dir="down">
                                  <verse xml:id="vi4646h" n="1">
                                     <syl xml:id="setcazk" con="d" wordpos="i">ме</syl>
                                  </verse>
@@ -144,7 +144,7 @@
                                     <syl xml:id="sanvrql" fontstyle="italic" con="d" wordpos="i">me</syl>
                                  </verse>
                               </note>
-                              <note xml:id="njhd9df" dur.ppq="2" dur="8" oct="5" pname="e" stem.dir="down">
+                              <note xml:id="njhd9df" dur="8" oct="5" pname="e" stem.dir="down">
                                  <verse xml:id="v1odl160" n="1">
                                     <syl xml:id="sgo2p95" con="s" wordpos="t">ні</syl>
                                  </verse>
@@ -162,7 +162,7 @@
                      <staff xml:id="s5zvcto" n="1">
                         <layer xml:id="l161957i" n="1">
                            <beam xml:id="b1lxusqz">
-                              <note xml:id="n8m36ul" dur.ppq="2" dur="8" oct="5" pname="d" stem.dir="down">
+                              <note xml:id="n8m36ul" dur="8" oct="5" pname="d" stem.dir="down">
                                  <accid xml:id="anjpdrw" accid="s" />
                                  <verse xml:id="vfiyr78" n="1">
                                     <syl xml:id="s73aoa8" con="d" wordpos="i">че</syl>
@@ -171,7 +171,7 @@
                                     <syl xml:id="syl7gwb" fontstyle="italic" con="d" wordpos="i">tche</syl>
                                  </verse>
                               </note>
-                              <note xml:id="n1yd79m0" dur.ppq="2" dur="8" oct="5" pname="d" stem.dir="down" accid.ges="s">
+                              <note xml:id="n1yd79m0" dur="8" oct="5" pname="d" stem.dir="down" accid.ges="s">
                                  <verse xml:id="v1hevbt7" n="1">
                                     <syl xml:id="s1bzk6lq" con="d" wordpos="m">ре</syl>
                                  </verse>
@@ -181,7 +181,7 @@
                               </note>
                            </beam>
                            <beam xml:id="b11gqx62">
-                              <note xml:id="nzauvcp" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up">
+                              <note xml:id="nzauvcp" dur="8" oct="4" pname="a" stem.dir="up">
                                  <verse xml:id="v1umbltl" n="1">
                                     <syl xml:id="siqapid" con="d" wordpos="m">ви</syl>
                                  </verse>
@@ -189,7 +189,7 @@
                                     <syl xml:id="s14zgxky" fontstyle="italic" con="d" wordpos="i">vy</syl>
                                  </verse>
                               </note>
-                              <note xml:id="ncmqh8n" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up">
+                              <note xml:id="ncmqh8n" dur="8" oct="4" pname="a" stem.dir="up">
                                  <verse xml:id="v1ax0rsh" n="1">
                                     <syl xml:id="s17pizej" con="s" wordpos="t">ки</syl>
                                  </verse>
@@ -206,7 +206,7 @@
                      <staff xml:id="s172qzg8" n="1">
                         <layer xml:id="l1bwr74r" n="1">
                            <beam xml:id="bxc121x">
-                              <note xml:id="njy5c56" dur.ppq="2" dur="8" oct="5" pname="c" stem.dir="down">
+                              <note xml:id="njy5c56" dur="8" oct="5" pname="c" stem.dir="down">
                                  <verse xml:id="vrr8u2p" n="1">
                                     <syl xml:id="s1cz61qs" con="s" wordpos="s">то</syl>
                                  </verse>
@@ -214,7 +214,7 @@
                                     <syl xml:id="sftr3he" fontstyle="italic" con="u" wordpos="s">to</syl>
                                  </verse>
                               </note>
-                              <note xml:id="n17by5ry" dur.ppq="1" dur="16" oct="5" pname="c" stem.dir="down">
+                              <note xml:id="n17by5ry" dur="16" oct="5" pname="c" stem.dir="down">
                                  <verse xml:id="vo2lhvl" n="1">
                                     <syl xml:id="sgif6ct" con="u" wordpos="s">піш</syl>
                                  </verse>
@@ -222,10 +222,10 @@
                                     <syl xml:id="si9s41m" fontstyle="italic" con="u" wordpos="s">pish</syl>
                                  </verse>
                               </note>
-                              <note xml:id="nrygggq" dur.ppq="1" dur="16" oct="5" pname="d" stem.dir="down" />
+                              <note xml:id="nrygggq" dur="16" oct="5" pname="d" stem.dir="down" />
                            </beam>
                            <beam xml:id="bx854py">
-                              <note xml:id="n1evoj95" dur.ppq="2" dur="8" oct="5" pname="e" stem.dir="down">
+                              <note xml:id="n1evoj95" dur="8" oct="5" pname="e" stem.dir="down">
                                  <verse xml:id="vxslrpe" n="1">
                                     <syl xml:id="sjztg7d" con="s" wordpos="s">ла</syl>
                                  </verse>
@@ -233,7 +233,7 @@
                                     <syl xml:id="s3lzf7s" fontstyle="italic" con="u" wordpos="s">la</syl>
                                  </verse>
                               </note>
-                              <note xml:id="n1n0elyc" dur.ppq="2" dur="8" oct="5" pname="e" stem.dir="down">
+                              <note xml:id="n1n0elyc" dur="8" oct="5" pname="e" stem.dir="down">
                                  <verse xml:id="v1lnrx3m" n="1">
                                     <syl xml:id="s1opt1dk" con="u" wordpos="s">бя</syl>
                                  </verse>
@@ -254,7 +254,7 @@
                      <staff xml:id="s1o8jeat" n="1">
                         <layer xml:id="l14mne80" n="1">
                            <beam xml:id="b1ltcfxd">
-                              <note xml:id="n1mvgrr8" dur.ppq="2" dur="8" oct="5" pname="c" stem.dir="down">
+                              <note xml:id="n1mvgrr8" dur="8" oct="5" pname="c" stem.dir="down">
                                  <verse xml:id="vz045v1" n="1">
                                     <syl xml:id="stg3z25" con="s" wordpos="s">на</syl>
                                  </verse>
@@ -262,7 +262,7 @@
                                     <syl xml:id="sc5l47w" fontstyle="italic" con="s" wordpos="s">na</syl>
                                  </verse>
                               </note>
-                              <note xml:id="n1sjq1kq" dur.ppq="2" dur="8" oct="5" pname="e" stem.dir="down">
+                              <note xml:id="n1sjq1kq" dur="8" oct="5" pname="e" stem.dir="down">
                                  <verse xml:id="v1b7hwwe" n="1">
                                     <syl xml:id="s137xflp" con="d" wordpos="i">му</syl>
                                  </verse>
@@ -272,7 +272,7 @@
                               </note>
                            </beam>
                            <beam xml:id="b17tznqj">
-                              <note xml:id="n20115b" dur.ppq="2" dur="8" oct="5" pname="d" stem.dir="down">
+                              <note xml:id="n20115b" dur="8" oct="5" pname="d" stem.dir="down">
                                  <verse xml:id="v5wcwxm" n="1">
                                     <syl xml:id="s185bpk3" con="u" wordpos="t">зи</syl>
                                  </verse>
@@ -280,8 +280,8 @@
                                     <syl xml:id="st8k7c7" fontstyle="italic" con="u" wordpos="t">zy</syl>
                                  </verse>
                               </note>
-                              <note xml:id="n2l9upy" dur.ppq="2" dur="8" oct="5" pname="c" stem.dir="down" />
-                              <note xml:id="n6q4gxz" dur.ppq="2" dur="8" oct="5" pname="d" stem.dir="down">
+                              <note xml:id="n2l9upy" dur="8" oct="5" pname="c" stem.dir="down" />
+                              <note xml:id="n6q4gxz" dur="8" oct="5" pname="d" stem.dir="down">
                                  <verse xml:id="vh6e0dh" n="1">
                                     <syl xml:id="s1soj6mw" con="d" wordpos="i">ки,</syl>
                                  </verse>
@@ -301,7 +301,7 @@
                   <measure xml:id="m1ltaof6" n="10">
                      <staff xml:id="sdd6mo4" n="1">
                         <layer xml:id="lbd2fgk" n="1">
-                           <note xml:id="n1gbvimb" dots="1" dur.ppq="6" dur="4" oct="5" pname="g" stem.dir="down">
+                           <note xml:id="n1gbvimb" dots="1" dur="4" oct="5" pname="g" stem.dir="down">
                               <verse xml:id="v194eufm" n="1">
                                  <syl xml:id="s1xxko27" con="d" wordpos="m">го</syl>
                               </verse>
@@ -309,7 +309,7 @@
                                  <syl xml:id="s152chaf" fontstyle="italic" con="d" wordpos="m">ho</syl>
                               </verse>
                            </note>
-                           <note xml:id="n13zglka" dur.ppq="2" dur="8" oct="5" pname="e" stem.dir="down">
+                           <note xml:id="n13zglka" dur="8" oct="5" pname="e" stem.dir="down">
                               <verse xml:id="voovjfx" n="1">
                                  <syl xml:id="s1twd4in" con="d" wordpos="m">рень</syl>
                               </verse>
@@ -318,7 +318,7 @@
                               </verse>
                            </note>
                            <beam xml:id="b1l9eowc">
-                              <note xml:id="n1yrzjaq" dur.ppq="2" dur="8" oct="5" pname="c" stem.dir="down">
+                              <note xml:id="n1yrzjaq" dur="8" oct="5" pname="c" stem.dir="down">
                                  <verse xml:id="v1jgh89e" n="1">
                                     <syl xml:id="stjgcj6" con="s" wordpos="t">ко</syl>
                                  </verse>
@@ -326,7 +326,7 @@
                                     <syl xml:id="sgbhlz" fontstyle="italic" con="s" wordpos="t">ko</syl>
                                  </verse>
                               </note>
-                              <note xml:id="n1t5xhen" dur.ppq="2" dur="8" oct="5" pname="d" stem.dir="down">
+                              <note xml:id="n1t5xhen" dur="8" oct="5" pname="d" stem.dir="down">
                                  <verse xml:id="v1n9mjjd" n="1">
                                     <syl xml:id="s1gsyrzl" con="d" wordpos="i">мо</syl>
                                  </verse>
@@ -346,7 +346,7 @@
                   <measure xml:id="m1hsqp91" n="11">
                      <staff xml:id="sh6oy5e" n="1">
                         <layer xml:id="lolxdmc" n="1">
-                           <note xml:id="n1wpmod0" dots="1" dur.ppq="12" dur="2" oct="5" pname="d" stem.dir="down">
+                           <note xml:id="n1wpmod0" dots="1" dur="2" oct="5" pname="d" stem.dir="down">
                               <accid xml:id="a6h52i5" accid="s" />
                               <verse xml:id="v12kxmtl" n="1">
                                  <syl xml:id="sumkxik" con="s" wordpos="t">є,</syl>
@@ -366,7 +366,7 @@
                      <staff xml:id="s1nztkdt" n="1">
                         <layer xml:id="lmhjw41" n="1">
                            <beam xml:id="b1osskd">
-                              <note xml:id="n1u8x6st" dur.ppq="2" dur="8" oct="5" pname="c" stem.dir="down">
+                              <note xml:id="n1u8x6st" dur="8" oct="5" pname="c" stem.dir="down">
                                  <verse xml:id="vbte2wa" n="1">
                                     <syl xml:id="skx736x" con="d" wordpos="m">го</syl>
                                  </verse>
@@ -374,7 +374,7 @@
                                     <syl xml:id="sg37416" fontstyle="italic" con="d" wordpos="m">ho</syl>
                                  </verse>
                               </note>
-                              <note xml:id="nxou2k5" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="down">
+                              <note xml:id="nxou2k5" dur="8" oct="4" pname="a" stem.dir="down">
                                  <verse xml:id="v1m2ut46" n="1">
                                     <syl xml:id="s3g24ls" con="d" wordpos="m">рень</syl>
                                  </verse>
@@ -384,7 +384,7 @@
                               </note>
                            </beam>
                            <beam xml:id="b14rir8v">
-                              <note xml:id="n1vrr0v1" dur.ppq="2" dur="8" oct="4" pname="b" stem.dir="up">
+                              <note xml:id="n1vrr0v1" dur="8" oct="4" pname="b" stem.dir="up">
                                  <accid xml:id="a5dldq3" accid="f" />
                                  <verse xml:id="vfcq31l" n="1">
                                     <syl xml:id="s1bzgdsr" con="s" wordpos="t">ко</syl>
@@ -393,7 +393,7 @@
                                     <syl xml:id="s1uddndm" fontstyle="italic" con="s" wordpos="t">ko</syl>
                                  </verse>
                               </note>
-                              <note xml:id="njzitim" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
+                              <note xml:id="njzitim" dur="8" oct="4" pname="g" stem.dir="up">
                                  <accid xml:id="a1p744bq" accid="s" />
                                  <verse xml:id="v3g5345" n="1">
                                     <syl xml:id="sd8879v" con="d" wordpos="i">мо</syl>
@@ -412,7 +412,7 @@
                   <measure xml:id="m1vfulbm" n="13">
                      <staff xml:id="s163b51x" n="1">
                         <layer xml:id="l19gs2l9" n="1">
-                           <note xml:id="n14t7842" dur.ppq="8" dur="2" oct="4" pname="a" stem.dir="up">
+                           <note xml:id="n14t7842" dur="2" oct="4" pname="a" stem.dir="up">
                               <verse xml:id="vd18iro" n="1">
                                  <syl xml:id="s1jubdfn" con="s" wordpos="t">є!</syl>
                               </verse>

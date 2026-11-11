@@ -55,9 +55,9 @@
                   <measure xml:id="mbfbii9" n="1">
                      <staff xml:id="s36o176" n="1">
                         <layer xml:id="lvy2csv" n="1">
-                           <note xml:id="n60tarp" dots="1" dur.ppq="3" dur="4" oct="3" pname="g" stem.dir="down" />
-                           <note xml:id="nn753rn" dur.ppq="1" dur="8" oct="3" pname="g" stem.dir="down" />
-                           <chord xml:id="c4229hk" dur.ppq="4" dur="2" stem.dir="up">
+                           <note xml:id="n60tarp" dots="1" dur="4" oct="3" pname="g" stem.dir="down" />
+                           <note xml:id="nn753rn" dur="8" oct="3" pname="g" stem.dir="down" />
+                           <chord xml:id="c4229hk" dur="2" stem.dir="up">
                               <note xml:id="num3f31" oct="2" pname="g" accid="n" />
                               <note xml:id="nma2hfe" oct="3" pname="g" accid="fu" />
                            </chord>
@@ -74,9 +74,9 @@
                   <measure xml:id="mlo0nzc" n="2">
                      <staff xml:id="so6zhkk" n="1">
                         <layer xml:id="lgr6cox" n="1">
-                           <note xml:id="nvdu15b" dots="1" dur.ppq="3" dur="4" oct="3" pname="b" stem.dir="down" />
-                           <note xml:id="nqpdaca" dur.ppq="1" dur="8" oct="3" pname="b" stem.dir="down" />
-                           <note xml:id="n1cf3fy" dur.ppq="4" dur="2" oct="3" pname="b" stem.dir="down" />
+                           <note xml:id="nvdu15b" dots="1" dur="4" oct="3" pname="b" stem.dir="down" />
+                           <note xml:id="nqpdaca" dur="8" oct="3" pname="b" stem.dir="down" />
+                           <note xml:id="n1cf3fy" dur="2" oct="3" pname="b" stem.dir="down" />
                         </layer>
                      </staff>
                      <dir place="above" staff="1" tstamp="1.000000" vgrp="200">
@@ -88,24 +88,24 @@
                   <measure xml:id="malugqd" n="3">
                      <staff xml:id="sgwiqh5" n="1">
                         <layer xml:id="l6civci" n="1">
-                           <note xml:id="nn9d82u" dots="1" dur.ppq="3" dur="4" oct="4" pname="d" stem.dir="down" />
-                           <note xml:id="nm095pa" dur.ppq="1" dur="8" oct="4" pname="d" stem.dir="down" />
-                           <chord xml:id="c61vfc5" dots="1" dur.ppq="3" dur="4" stem.dir="down">
+                           <note xml:id="nn9d82u" dots="1" dur="4" oct="4" pname="d" stem.dir="down" />
+                           <note xml:id="nm095pa" dur="8" oct="4" pname="d" stem.dir="down" />
+                           <chord xml:id="c61vfc5" dots="1" dur="4" stem.dir="down">
                               <note xml:id="n927hmx" oct="3" pname="d" accid="n" />
                               <note xml:id="noyutwf" oct="4" pname="d" accid="sd" />
                            </chord>
-                           <note xml:id="nryifh2" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="down" />
+                           <note xml:id="nryifh2" dur="8" oct="4" pname="e" stem.dir="down" />
                         </layer>
                      </staff>
                   </measure>
                   <measure xml:id="m57drfs" n="4">
                      <staff xml:id="sh1zniy" n="1">
                         <layer xml:id="lep1f5e" n="1">
-                           <chord xml:id="cw8jxsf" dur.ppq="2" dur="4" stem.dir="down">
+                           <chord xml:id="cw8jxsf" dur="4" stem.dir="down">
                               <note xml:id="nhpdph9" oct="3" pname="d" accid="n" />
                               <note xml:id="ntue2m8" oct="4" pname="d" accid="sd" />
                            </chord>
-                           <note xml:id="nxy8a09" dur.ppq="4" dur="2" oct="4" pname="d" stem.dir="down" />
+                           <note xml:id="nxy8a09" dur="2" oct="4" pname="d" stem.dir="down" />
                         </layer>
                      </staff>
                      <tie xml:id="tvx2zl7" startid="#nxy8a09" endid="#np2lyri" />
@@ -113,7 +113,7 @@
                   <measure xml:id="mddi72m" n="5">
                      <staff xml:id="sczpe90" n="1">
                         <layer xml:id="l7va2i3" n="1">
-                           <note xml:id="np2lyri" dur.ppq="8" dur="1" oct="4" pname="d" />
+                           <note xml:id="np2lyri" dur="1" oct="4" pname="d" />
                         </layer>
                      </staff>
                      <dir xml:id="dqzemwo" place="above" staff="1" tstamp="1.000000" vgrp="300">

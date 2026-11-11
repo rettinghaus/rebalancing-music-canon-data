@@ -54,14 +54,14 @@
                   <measure xml:id="mkgra2t" right="invis" n="1">
                      <staff xml:id="sz24wkq" n="1">
                         <layer xml:id="l66kk8v" n="1">
-                              <note xml:id="ncbzeqx" dur.ppq="1" dur="8" oct="4" pname="e" stem.visible="false" />
-                              <note xml:id="ng1gr54" dur.ppq="1" dur="8" oct="4" pname="d" stem.visible="false" />
-                              <note xml:id="n48n8yt" dur.ppq="1" dur="8" oct="4" pname="g" stem.visible="false" />
-                           <space xml:id="s583maj" dur.ppq="1" dur="8" />
-                              <note xml:id="ndj7plu" dur.ppq="1" dur="8" oct="3" pname="e" stem.visible="false" />
-                              <note xml:id="n8b6xb4" dur.ppq="1" dur="8" oct="3" pname="g" stem.visible="false" />
-                              <note xml:id="nlpuxqj" dur.ppq="1" dur="8" oct="3" pname="f" stem.visible="false" accid="s" />
-                              <note xml:id="nj23t7a" dur.ppq="1" dur="8" oct="3" pname="d" stem.visible="false" />
+                              <note xml:id="ncbzeqx" dur="8" oct="4" pname="e" stem.visible="false" />
+                              <note xml:id="ng1gr54" dur="8" oct="4" pname="d" stem.visible="false" />
+                              <note xml:id="n48n8yt" dur="8" oct="4" pname="g" stem.visible="false" />
+                           <space xml:id="s583maj" dur="8" />
+                              <note xml:id="ndj7plu" dur="8" oct="3" pname="e" stem.visible="false" />
+                              <note xml:id="n8b6xb4" dur="8" oct="3" pname="g" stem.visible="false" />
+                              <note xml:id="nlpuxqj" dur="8" oct="3" pname="f" stem.visible="false" accid="s" />
+                              <note xml:id="nj23t7a" dur="8" oct="3" pname="d" stem.visible="false" />
                         </layer>
                      </staff>
                      <dir xml:id="drh5zqx" place="above" staff="1" tstamp="1.000000" vgrp="234">
@@ -72,13 +72,13 @@
                   <measure xml:id="mqi6t88" right="invis" n="2">
                      <staff xml:id="s2fysve" n="1">
                         <layer xml:id="lqo325g" n="1">
-                           <space xml:id="sjt9gxs" dur.ppq="2" dur="4" />
-                           <space xml:id="skl3j3m" dur.ppq="2" dur="4" />
+                           <space xml:id="sjt9gxs" dur="4" />
+                           <space xml:id="skl3j3m" dur="4" />
                            <clef xml:id="cc791uy" shape="C" line="4" />
-                              <note xml:id="npzjgge" dur.ppq="1" dur="8" oct="4" pname="g" stem.visible="false" />
-                              <note xml:id="ngy5e8t" dur.ppq="1" dur="8" oct="4" pname="d" stem.visible="false" />
-                              <note xml:id="njoyv3e" dur.ppq="1" dur="8" oct="4" pname="a" stem.visible="false" />
-                              <note xml:id="n4k7oam" dur.ppq="1" dur="8" oct="4" pname="b" stem.visible="false" />
+                              <note xml:id="npzjgge" dur="8" oct="4" pname="g" stem.visible="false" />
+                              <note xml:id="ngy5e8t" dur="8" oct="4" pname="d" stem.visible="false" />
+                              <note xml:id="njoyv3e" dur="8" oct="4" pname="a" stem.visible="false" />
+                              <note xml:id="n4k7oam" dur="8" oct="4" pname="b" stem.visible="false" />
                         </layer>
                      </staff>
                      <breath xml:id="bgk9c8d" staff="1" tstamp="2.000000" />
@@ -86,13 +86,13 @@
                   <measure xml:id="m34p1xr" right="invis" n="3">
                      <staff xml:id="s8o5mid" n="1">
                         <layer xml:id="l603xe2" n="1">
-                           <space xml:id="svdfhjq" dur.ppq="2" dur="4" />
-                           <space xml:id="s82w803" dur.ppq="2" dur="4" />
+                           <space xml:id="svdfhjq" dur="4" />
+                           <space xml:id="s82w803" dur="4" />
                            <clef xml:id="cyjs6j8" shape="F" line="4" />
-                              <note xml:id="n80drfn" dur.ppq="1" dur="8" oct="3" pname="g" stem.visible="false" />
-                              <note xml:id="n4l0bf5" dur.ppq="1" dur="8" oct="3" pname="d" stem.visible="false" />
-                              <note xml:id="no4a9zu" dur.ppq="1" dur="8" oct="3" pname="a" stem.visible="false" />
-                              <note xml:id="nwe1fpe" dur.ppq="1" dur="8" oct="4" pname="e" stem.visible="false" />
+                              <note xml:id="n80drfn" dur="8" oct="3" pname="g" stem.visible="false" />
+                              <note xml:id="n4l0bf5" dur="8" oct="3" pname="d" stem.visible="false" />
+                              <note xml:id="no4a9zu" dur="8" oct="3" pname="a" stem.visible="false" />
+                              <note xml:id="nwe1fpe" dur="8" oct="4" pname="e" stem.visible="false" />
                         </layer>
                      </staff>
                      <breath xml:id="biw48s5" staff="1" tstamp="2.000000" />
@@ -101,24 +101,24 @@
                      <staff xml:id="s8rvdas" n="1">
                         <layer xml:id="ls8q170" n="1">
 
-                              <note xml:id="n6y6vmf" dur.ppq="1" dur="8" oct="3" pname="b" stem.visible="false" />
-                              <note xml:id="njcopjn" dur.ppq="1" dur="8" oct="4" pname="e" stem.visible="false" />
-                              <note xml:id="n6zblbq" dur.ppq="1" dur="8" oct="4" pname="d" stem.visible="false" />
-                              <note xml:id="naxvza7" dur.ppq="1" dur="8" oct="3" pname="a" stem.visible="false" />
-                              <note xml:id="nhmq9eg" dur.ppq="1" dur="8" oct="3" pname="b" stem.visible="false" />
-                              <note xml:id="n7ay5h7" dur.ppq="1" dur="8" oct="3" pname="g" stem.visible="false" />
-                              <note xml:id="n8qvqpd" dur.ppq="1" dur="8" oct="3" pname="f" stem.visible="false" accid="s" />
-                              <note xml:id="nnhiuqn" dur.ppq="1" dur="8" oct="3" pname="d" stem.visible="false" />
+                              <note xml:id="n6y6vmf" dur="8" oct="3" pname="b" stem.visible="false" />
+                              <note xml:id="njcopjn" dur="8" oct="4" pname="e" stem.visible="false" />
+                              <note xml:id="n6zblbq" dur="8" oct="4" pname="d" stem.visible="false" />
+                              <note xml:id="naxvza7" dur="8" oct="3" pname="a" stem.visible="false" />
+                              <note xml:id="nhmq9eg" dur="8" oct="3" pname="b" stem.visible="false" />
+                              <note xml:id="n7ay5h7" dur="8" oct="3" pname="g" stem.visible="false" />
+                              <note xml:id="n8qvqpd" dur="8" oct="3" pname="f" stem.visible="false" accid="s" />
+                              <note xml:id="nnhiuqn" dur="8" oct="3" pname="d" stem.visible="false" />
                         </layer>
                      </staff>
                   </measure>
                   <measure xml:id="ml6iqqq" right="invis" n="5">
                      <staff xml:id="sieu7tr" n="1">
                         <layer xml:id="lg3649r" n="1">
-                              <note xml:id="nwbart7" dur.ppq="1" dur="8" oct="3" pname="e" stem.visible="false" />
-                              <note xml:id="nj2qef0" dur.ppq="1" dur="8" oct="3" pname="d" stem.visible="false" />
+                              <note xml:id="nwbart7" dur="8" oct="3" pname="e" stem.visible="false" />
+                              <note xml:id="nj2qef0" dur="8" oct="3" pname="d" stem.visible="false" />
                            <bTrem xml:id="b8a0so0" form="meas">
-                              <note xml:id="n25ta0o" dots="1" dur.ppq="6" dur="2" oct="3" pname="b" stem.dir="down" stem.mod="3slash" />
+                              <note xml:id="n25ta0o" dots="1" dur="2" oct="3" pname="b" stem.dir="down" stem.mod="3slash" />
                            </bTrem>
                         </layer>
                      </staff>

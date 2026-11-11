@@ -54,9 +54,9 @@
                   <measure xml:id="m1fktftz" n="1">
                      <staff xml:id="svdzypz" n="1">
                         <layer xml:id="l1kq4cti" n="1">
-                           <note xml:id="nlih502" dots="1" dur.ppq="24" dur="2" oct="5" pname="c" stem.dir="down" />
-                           <note xml:id="n165h1tm" dots="1" dur.ppq="12" dur="4" oct="5" pname="c" stem.dir="down" />
-                           <rest xml:id="r6alnvj" dots="1" dur.ppq="12" dur="4" />
+                           <note xml:id="nlih502" dots="1" dur="2" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="n165h1tm" dots="1" dur="4" oct="5" pname="c" stem.dir="down" />
+                           <rest xml:id="r6alnvj" dots="1" dur="4" />
                         </layer>
                      </staff>
                      <dir xml:id="d13gjo8s" place="above" staff="1" tstamp="1.000000" vgrp="204">
@@ -85,10 +85,10 @@
                   <measure xml:id="mbroqg2" n="2">
                      <staff xml:id="s1w5dqkn" n="1">
                         <layer xml:id="l2anj8b" n="1">
-                           <note xml:id="n142qtx9" dots="1" dur.ppq="24" dur="2" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="n142qtx9" dots="1" dur="2" oct="5" pname="c" stem.dir="down" />
                            <fTrem xml:id="f9emy6r" beams="3" beams.float="3">
-                              <note xml:id="nx1279r" dots="1" dur.ppq="6" dur="4" oct="5" pname="c" stem.dir="down" />
-                              <note xml:id="nfq882e" dots="1" dur.ppq="6" dur="4" oct="5" pname="d" stem.dir="down" accid="f" />
+                              <note xml:id="nx1279r" dots="1" dur="4" oct="5" pname="c" stem.dir="down" />
+                              <note xml:id="nfq882e" dots="1" dur="4" oct="5" pname="d" stem.dir="down" accid="f" />
                            </fTrem>
                         </layer>
                      </staff>
@@ -101,11 +101,11 @@
                      <staff xml:id="s395873" n="1">
                         <layer xml:id="l1g9clgo" n="1">
                            <fTrem xml:id="foboz3g" beams="3" beams.float="2">
-                              <note xml:id="n1sm1l74" dur.ppq="2" dur="8" oct="5" pname="c" stem.dir="down" />
-                              <note xml:id="n1o2xr0x" dur.ppq="2" dur="8" oct="5" pname="d" stem.dir="down" accid="f" />
+                              <note xml:id="n1sm1l74" dur="8" oct="5" pname="c" stem.dir="down" />
+                              <note xml:id="n1o2xr0x" dur="8" oct="5" pname="d" stem.dir="down" accid="f" />
                            </fTrem>
-                           <note xml:id="na6qyk7" dur.ppq="8" dur="4" oct="5" pname="c" stem.dir="down" />
-                           <note xml:id="n16v7c3y" dots="1" dur.ppq="24" dur="2" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="na6qyk7" dur="4" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="n16v7c3y" dots="1" dur="2" oct="5" pname="c" stem.dir="down" />
                         </layer>
                      </staff>
                      <dynam xml:id="d1l19mlm" place="below" staff="1" tstamp="1.000000" val="33" vgrp="40">pp</dynam>
@@ -127,9 +127,9 @@
                   <measure xml:id="m1cavvoa" n="4">
                      <staff xml:id="s1hm9kid" n="1">
                         <layer xml:id="l1yf9109" n="1">
-                           <note xml:id="nskyo14" dots="1" dur.ppq="24" dur="2" oct="5" pname="c" stem.dir="down" />
-                           <note xml:id="n2mroyp" dots="1" dur.ppq="12" dur="4" oct="5" pname="c" stem.dir="down" />
-                           <rest xml:id="r1afk3lm" dots="1" dur.ppq="12" dur="4" />
+                           <note xml:id="nskyo14" dots="1" dur="2" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="n2mroyp" dots="1" dur="4" oct="5" pname="c" stem.dir="down" />
+                           <rest xml:id="r1afk3lm" dots="1" dur="4" />
                         </layer>
                      </staff>
                      <dynam xml:id="drhy5rk" place="below" staff="1" tstamp="1.000000" val="16" vgrp="40">ppp</dynam>

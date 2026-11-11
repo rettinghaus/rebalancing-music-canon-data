@@ -55,7 +55,7 @@
                   <measure xml:id="mc9dat9" n="1">
                      <staff xml:id="s6vgmue" n="1">
                         <layer xml:id="l180cplh" n="1">
-                           <note xml:id="nwgjlql" dots="1" dur.ppq="12" dur="1" oct="4" pname="a" />
+                           <note xml:id="nwgjlql" dots="1" dur="1" oct="4" pname="a" />
                         </layer>
                      </staff>
                      <dynam xml:id="dmr3c0n" place="below" staff="1" tstamp="1.000000" val="33" vgrp="40">pp sempre</dynam>
@@ -70,19 +70,19 @@
                         <layer xml:id="l4gcuoi" n="1">
                            <beam xml:id="bj2yvcm">
                               <bTrem xml:id="biaqrjs" form="meas">
-                                 <note xml:id="n1leuvv9" dur.ppq="1" dur="8" oct="6" pname="f" cue="true" stem.dir="up" stem.mod="1slash" />
+                                 <note xml:id="n1leuvv9" dur="8" oct="6" pname="f" cue="true" stem.dir="up" stem.mod="1slash" />
                               </bTrem>
-                              <note xml:id="nkz34dj" dur.ppq="1" dur="8" oct="6" pname="e" cue="true" stem.dir="up" />
-                              <note xml:id="n69jyl9" dur.ppq="1" dur="8" oct="6" pname="f" cue="true" stem.dir="up" accid="s" />
-                              <note xml:id="n1p5s8ga" dur.ppq="1" dur="8" oct="6" pname="g" cue="true" stem.dir="up" />
-                              <note xml:id="nyno4m1" dur.ppq="1" dur="8" oct="6" pname="f" cue="true" stem.dir="up" accid="n" />
+                              <note xml:id="nkz34dj" dur="8" oct="6" pname="e" cue="true" stem.dir="up" />
+                              <note xml:id="n69jyl9" dur="8" oct="6" pname="f" cue="true" stem.dir="up" accid="s" />
+                              <note xml:id="n1p5s8ga" dur="8" oct="6" pname="g" cue="true" stem.dir="up" />
+                              <note xml:id="nyno4m1" dur="8" oct="6" pname="f" cue="true" stem.dir="up" accid="n" />
                            </beam>
-                           <space xml:id="s1or8qji" dur.ppq="1" dur="8" />
-                           <space xml:id="sncqaje" dur.ppq="2" dur="4" />
-                           <space xml:id="s1r3pclp" dur.ppq="4" dur="2" />
+                           <space xml:id="s1or8qji" dur="8" />
+                           <space xml:id="sncqaje" dur="4" />
+                           <space xml:id="s1r3pclp" dur="2" />
                         </layer>
                         <layer xml:id="l1lkpuri" n="2">
-                           <note xml:id="nd3hpcb" dots="1" dur.ppq="12" dur="1" oct="4" pname="a" />
+                           <note xml:id="nd3hpcb" dots="1" dur="1" oct="4" pname="a" />
                         </layer>
                      </staff>
                      <slur xml:id="s161iyrj" startid="#n1leuvv9" endid="#nyno4m1" curvedir="above" />
@@ -96,7 +96,7 @@
                               </bTrem>
                               <note xml:id="ng7jpwq" dur="8" oct="4" pname="e" grace="unacc" stem.dir="up" stem.mod="1slash" accid="f" />
                            </beam>
-                           <note xml:id="nz7dss" dots="1" dur.ppq="12" dur="1" oct="4" pname="b" accid="f" />
+                           <note xml:id="nz7dss" dots="1" dur="1" oct="4" pname="b" accid="f" />
                         </layer>
                      </staff>
                      <slur xml:id="srpgm71" startid="#n1ch3zur" endid="#ng7jpwq" curvedir="below" />
@@ -105,14 +105,14 @@
                   <measure xml:id="mtllyp1" n="4">
                      <staff xml:id="s1serols" n="1">
                         <layer xml:id="l1it8zvb" n="1">
-                           <rest xml:id="ra9r3gf" dots="1" dur.ppq="12" dur="1" />
+                           <rest xml:id="ra9r3gf" dots="1" dur="1" />
                            <beam xml:id="b144fher">
                               <bTrem xml:id="b1ewv3d3" form="meas">
-                                 <note xml:id="nc6dssm" dur.ppq="1" dur="8" oct="6" pname="e" cue="true" stem.dir="down" stem.mod="1slash" />
+                                 <note xml:id="nc6dssm" dur="8" oct="6" pname="e" cue="true" stem.dir="down" stem.mod="1slash" />
                               </bTrem>
-                              <note xml:id="nu8h2o0" dur.ppq="1" dur="8" oct="6" pname="f" cue="true" stem.dir="down" />
-                              <note xml:id="n1cwkche" dur.ppq="1" dur="8" oct="6" pname="d" cue="true" stem.dir="down" />
-                              <note xml:id="n1h7s5zu" dur.ppq="1" dur="8" oct="6" pname="c" cue="true" stem.dir="down" accid="s" />
+                              <note xml:id="nu8h2o0" dur="8" oct="6" pname="f" cue="true" stem.dir="down" />
+                              <note xml:id="n1cwkche" dur="8" oct="6" pname="d" cue="true" stem.dir="down" />
+                              <note xml:id="n1h7s5zu" dur="8" oct="6" pname="c" cue="true" stem.dir="down" accid="s" />
                            </beam>
                         </layer>
                      </staff>
@@ -121,7 +121,7 @@
                   <measure xml:id="m2ca8o9" n="5">
                      <staff xml:id="sp8k8so" n="1">
                         <layer xml:id="lgrzl0h" n="1">
-                           <chord xml:id="cb4zbsu" dots="1" dur.ppq="12" dur="1">
+                           <chord xml:id="cb4zbsu" dots="1" dur="1">
                               <note xml:id="n18v6w9z" oct="4" pname="a" />
                               <note xml:id="nrlqhtp" oct="5" pname="a" />
                            </chord>
@@ -134,7 +134,7 @@
                   <measure xml:id="mzpclbx" n="6">
                      <staff xml:id="s1q6bodp" n="1">
                         <layer xml:id="lo3g8je" n="1">
-                           <chord xml:id="c1d8av1y" dots="1" dur.ppq="12" dur="1">
+                           <chord xml:id="c1d8av1y" dots="1" dur="1">
                               <note xml:id="nzbmhat" oct="4" pname="a" />
                               <note xml:id="nbh01kw" oct="5" pname="a" />
                            </chord>

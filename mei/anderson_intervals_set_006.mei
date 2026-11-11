@@ -60,10 +60,10 @@
                   <measure xml:id="me4mxzh" right="dashed" n="1">
                      <staff xml:id="sm2svho" n="1">
                         <layer xml:id="lu8g53d" n="1">
-                           <space xml:id="s1llj79k" dur.ppq="8" dur="1" />
-                           <note xml:id="nbcltql" dur.ppq="8" dur="1" oct="4" pname="a" />
-                           <note xml:id="nhweeva" dur.ppq="16" dur="breve" oct="4" pname="a" />
-                           <rest xml:id="rwsqefk" dur.ppq="1" dur="8" />
+                           <space xml:id="s1llj79k" dur="1" />
+                           <note xml:id="nbcltql" dur="1" oct="4" pname="a" />
+                           <note xml:id="nhweeva" dur="breve" oct="4" pname="a" />
+                           <rest xml:id="rwsqefk" dur="8" />
                         </layer>
                      </staff>
                       <tempo xml:id="t1igr9uq" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm.unit="4">
@@ -78,9 +78,9 @@
                   <measure xml:id="mc00fzh" right="dashed" n="2">
                      <staff xml:id="sp5yxwu" n="1">
                         <layer xml:id="l1luxqhu" n="1">
-                           <note xml:id="n159aew3" dur.ppq="16" dur="breve" oct="4" pname="g" />
-                           <note xml:id="n8nyd5i" dur.ppq="16" dur="breve" oct="4" pname="g" />
-                           <rest xml:id="r6o34r9" dur.ppq="1" dur="8" />
+                           <note xml:id="n159aew3" dur="breve" oct="4" pname="g" />
+                           <note xml:id="n8nyd5i" dur="breve" oct="4" pname="g" />
+                           <rest xml:id="r6o34r9" dur="8" />
                         </layer>
                      </staff>
                      <slur xml:id="sm15x0" startid="#n159aew3" endid="#n8nyd5i" curvedir="below" />

@@ -54,11 +54,11 @@
                   <measure xml:id="mrgorqi" n="1">
                      <staff xml:id="sa18urg" n="1">
                         <layer xml:id="li98u6e" n="1">
-                           <note xml:id="nbnqen1" dots="1" dur.ppq="3" dur="4" oct="5" pname="f" stem.dir="down">
+                           <note xml:id="nbnqen1" dots="1" dur="4" oct="5" pname="f" stem.dir="down">
                               <artic xml:id="aw7uewp" artic="acc" />
                            </note>
-                           <note xml:id="n78oejx" dots="1" dur.ppq="3" dur="4" oct="6" pname="c" stem.dir="down" />
-                           <note xml:id="nnnooyd" dur.ppq="2" dur="4" oct="6" pname="d" stem.dir="down" />
+                           <note xml:id="n78oejx" dots="1" dur="4" oct="6" pname="c" stem.dir="down" />
+                           <note xml:id="nnnooyd" dur="4" oct="6" pname="d" stem.dir="down" />
                         </layer>
                      </staff>
                      <dir xml:id="d727l2b" place="below" staff="1" tstamp="1.000000" vgrp="40">
@@ -71,33 +71,33 @@
                   <measure xml:id="mz9hfuh" n="2">
                      <staff xml:id="smd0bb3" n="1">
                         <layer xml:id="lsbh1lm" n="1">
-                           <note xml:id="ni8zyi0" dots="1" dur.ppq="3" dur="4" oct="6" pname="e" stem.dir="down" accid="f">
+                           <note xml:id="ni8zyi0" dots="1" dur="4" oct="6" pname="e" stem.dir="down" accid="f">
                               <artic xml:id="aen19ri" artic="acc" />
                            </note>
-                           <note xml:id="ni27z4q" dots="1" dur.ppq="3" dur="4" oct="6" pname="f" stem.dir="down" />
-                           <note xml:id="nv6fim0" dur.ppq="2" dur="4" oct="6" pname="e" stem.dir="down" accid.ges="f" />
+                           <note xml:id="ni27z4q" dots="1" dur="4" oct="6" pname="f" stem.dir="down" />
+                           <note xml:id="nv6fim0" dur="4" oct="6" pname="e" stem.dir="down" accid.ges="f" />
                         </layer>
                      </staff>
                   </measure>
                   <measure xml:id="m5wpbis" n="3">
                      <staff xml:id="stf2x4t" n="1">
                         <layer xml:id="l1fkfpo" n="1">
-                           <note xml:id="n5n86e5" dur.ppq="2" dur="4" oct="6" pname="d" stem.dir="down" accid="f" />
-                           <note xml:id="n9m1isb" dots="1" dur.ppq="3" dur="4" oct="6" pname="c" stem.dir="down">
+                           <note xml:id="n5n86e5" dur="4" oct="6" pname="d" stem.dir="down" accid="f" />
+                           <note xml:id="n9m1isb" dots="1" dur="4" oct="6" pname="c" stem.dir="down">
                               <artic xml:id="adxswtm" artic="acc" />
                            </note>
-                           <note xml:id="notci4a" dots="1" dur.ppq="3" dur="4" oct="5" pname="g" stem.dir="down" accid="f" />
+                           <note xml:id="notci4a" dots="1" dur="4" oct="5" pname="g" stem.dir="down" accid="f" />
                         </layer>
                      </staff>
                   </measure>
                   <measure xml:id="m43urk5" n="4">
                      <staff xml:id="smgdttw" n="1">
                         <layer xml:id="lruiurp" n="1">
-                           <note xml:id="npz86w5" dots="1" dur.ppq="6" dur="2" oct="5" pname="f" stem.dir="down">
+                           <note xml:id="npz86w5" dots="1" dur="2" oct="5" pname="f" stem.dir="down">
                               <artic xml:id="ajen8ys" artic="acc" />
                            </note>
-                           <note xml:id="nj9vl8l" dur.ppq="1" dur="8" oct="5" pname="f" stem.dir="down" />
-                           <rest xml:id="roq2zjg" dur.ppq="1" dur="8" />
+                           <note xml:id="nj9vl8l" dur="8" oct="5" pname="f" stem.dir="down" />
+                           <rest xml:id="roq2zjg" dur="8" />
                         </layer>
                      </staff>
                      <tie xml:id="tbclei5" startid="#npz86w5" endid="#nj9vl8l" />

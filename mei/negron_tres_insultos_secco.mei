@@ -61,7 +61,7 @@
                   <measure xml:id="m18b929v" n="1">
                      <staff xml:id="s1650y79" n="1">
                         <layer xml:id="lljuzcq" n="1">
-                           <chord xml:id="c16gb664" dur.ppq="4" dur="1">
+                           <chord xml:id="c16gb664" dur="1">
                               <note xml:id="n8b0pu1" oct="4" pname="e" />
                               <note xml:id="n1f9ckaa" oct="4" pname="g" />
                            </chord>
@@ -80,11 +80,11 @@
                   <measure xml:id="m14wykgd" n="2">
                      <staff xml:id="s1w0oue7" n="1">
                         <layer xml:id="lalodvs" n="1">
-                           <chord xml:id="c1fhongl" dur.ppq="1" dur="4" stem.dir="up">
+                           <chord xml:id="c1fhongl" dur="4" stem.dir="up">
                               <note xml:id="n1m9gupr" oct="4" pname="e" />
                               <note xml:id="nzqx420" oct="4" pname="g" />
                            </chord>
-                           <chord xml:id="crs4gh9" dots="1" dur.ppq="3" dur="2" stem.dir="up">
+                           <chord xml:id="crs4gh9" dots="1" dur="2" stem.dir="up">
                               <note xml:id="n90u758" oct="4" pname="c">
                                  <accid xml:id="afoefi2" accid="s" />
                               </note>
@@ -98,11 +98,11 @@
                   <measure xml:id="mvly3l5" n="3">
                      <staff xml:id="sm55q6e" n="1">
                         <layer xml:id="l1adxmcp" n="1">
-                           <chord xml:id="cejfcwh" dur.ppq="2" dur="2" stem.dir="up">
+                           <chord xml:id="cejfcwh" dur="2" stem.dir="up">
                               <note xml:id="n13a747g" oct="4" pname="c" />
                               <note xml:id="nuj21z6" oct="4" pname="e" />
                            </chord>
-                           <chord xml:id="cvh22zg" dur.ppq="2" dur="2" stem.dir="up">
+                           <chord xml:id="cvh22zg" dur="2" stem.dir="up">
                               <note xml:id="nih8nrv" oct="4" pname="d" />
                               <note xml:id="nugb7gb" oct="4" pname="f" />
                            </chord>
@@ -114,11 +114,11 @@
                   <measure xml:id="m11cd5mf" n="4">
                      <staff xml:id="sww6yp0" n="1">
                         <layer xml:id="lskwd2u" n="1">
-                           <chord xml:id="cyg930r" dots="1" dur.ppq="3" dur="2" stem.dir="up">
+                           <chord xml:id="cyg930r" dots="1" dur="2" stem.dir="up">
                               <note xml:id="n1otbyhq" oct="4" pname="d" />
                               <note xml:id="nnube5g" oct="4" pname="f" />
                            </chord>
-                           <chord xml:id="co9nkvl" dur.ppq="1" dur="4" stem.dir="up">
+                           <chord xml:id="co9nkvl" dur="4" stem.dir="up">
                               <note xml:id="n1lmztec" oct="4" pname="d">
                                  <accid xml:id="at25dm3" accid="s" />
                               </note>
@@ -134,7 +134,7 @@
                   <measure xml:id="mc7qfy9" n="5">
                      <staff xml:id="stxfx59" n="1">
                         <layer xml:id="l1lj6uw7" n="1">
-                           <chord xml:id="c1pc5bwy" dur.ppq="4" dur="1">
+                           <chord xml:id="c1pc5bwy" dur="1">
                               <note xml:id="n1sx7qh2" oct="4" pname="d" />
                               <note xml:id="n1o1o8rb" oct="4" pname="f" />
                            </chord>
@@ -146,7 +146,7 @@
                   <measure xml:id="mkdu16d" n="6">
                      <staff xml:id="sbxkttp" n="1">
                         <layer xml:id="l13wj9aa" n="1">
-                           <chord xml:id="cyajlnr" dur.ppq="4" dur="1">
+                           <chord xml:id="cyajlnr" dur="1">
                               <note xml:id="n3g1tm6" oct="4" pname="d">
                                  <accid xml:id="a1lcc44h" accid="s" />
                               </note>
